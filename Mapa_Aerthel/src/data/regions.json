@@ -1,0 +1,509 @@
+{
+  "continentLengthKm": 6000,
+  "regions": [
+    {
+      "id": "escarpas-de-vultur",
+      "name": "Cordilheira Noroeste",
+      "settlement": "Escarpas de Vultur (Vultur)",
+      "macroRegion": "Norte",
+      "houseId": "vultur",
+      "terrain": "montanha",
+      "climate": "Picos congelados, ar rarefeito e nevascas eternas",
+      "x": 304,
+      "y": 132,
+      "kmNorth": 450,
+      "description": "Cidadela de gelo e mármore encravada nos picos mais altos a noroeste do Norte.",
+      "strategicNote": "Vigia toda a cordilheira ocidental; ligada por casamento a Kargard."
+    },
+    {
+      "id": "pico-de-ferro",
+      "name": "Encostas de Ferro",
+      "settlement": "Pico de Ferro (Cortry)",
+      "macroRegion": "Norte",
+      "houseId": "cortry",
+      "terrain": "montanha",
+      "climate": "Frio seco, fumaça de forjas e vales rochosos",
+      "x": 240,
+      "y": 205,
+      "kmNorth": 950,
+      "description": "Minas profundas e fundições ao sul dos picos Vultur, onde nasce o afluente ocidental.",
+      "strategicNote": "Fornece o aço negro do Norte; abriga a vassala menor Casa Vardell na costa oeste."
+    },
+    {
+      "id": "basgard",
+      "name": "Alto Norte Oriental",
+      "settlement": "Basgard (Kargard)",
+      "macroRegion": "Norte",
+      "houseId": "kargard",
+      "terrain": "costa",
+      "climate": "Ventos polares vindos do Mar de Gelo",
+      "x": 615,
+      "y": 140,
+      "kmNorth": 680,
+      "description": "Domínio nordeste às margens da grande via nortenha e da costa congelada do Mar de Gelo.",
+      "strategicNote": "Controla o acesso nordeste, os estaleiros Hausen e as terras do ramo remanescente Thornwall."
+    },
+    {
+      "id": "ruthless",
+      "name": "Planalto Central de Borea",
+      "settlement": "Ruthless (Kazimir)",
+      "macroRegion": "Norte",
+      "houseId": "kazimir",
+      "terrain": "tundra",
+      "climate": "Inverno rigoroso no coração fluvial e rodoviário do Norte",
+      "x": 485,
+      "y": 265,
+      "kmNorth": 1350,
+      "description": "A grande fortaleza quadrada de pedra negra erguida no centro do Norte, junto à Via Imperial.",
+      "strategicNote": "Sede soberana dos Kazimir; cercada pelas casas menores Vane, Hylton e Coolys."
+    },
+    {
+      "id": "mata-velha",
+      "name": "Florestas Ocidentais",
+      "settlement": "Mata Velha (Glaedwyn)",
+      "macroRegion": "Norte",
+      "houseId": "glaedwyn",
+      "terrain": "floresta",
+      "climate": "Pinheiros gigantes cobertos de neve e neblina costeira",
+      "x": 255,
+      "y": 345,
+      "kmNorth": 1850,
+      "description": "Imensa mata de coníferas que ocupa toda a costa oeste do Norte acima das Muralhas.",
+      "strategicNote": "Madeira de lei e guerra de emboscada; flanco esquerdo natural de Ruthless."
+    },
+    {
+      "id": "pouso-do-corvo",
+      "name": "Confluência Central",
+      "settlement": "Pouso do Corvo (Prerwall)",
+      "macroRegion": "Norte",
+      "houseId": "prerwall",
+      "terrain": "tundra",
+      "climate": "Ventos frios na junção dos rios antes da Muralha",
+      "x": 480,
+      "y": 370,
+      "kmNorth": 2050,
+      "description": "Fortaleza e biblioteca situadas diretamente ao sul de Ruthless, vigiando a Via Imperial.",
+      "strategicNote": "Centro de inteligência do Norte e sede da casa menor Corvin."
+    },
+    {
+      "id": "solar-do-vale",
+      "name": "Planície Sudeste do Norte",
+      "settlement": "Solar do Vale (Draemont)",
+      "macroRegion": "Norte",
+      "houseId": "draemont",
+      "terrain": "vale",
+      "climate": "Várzeas frias irrigadas a leste da Via Imperial e ao sul do Mar de Gelo",
+      "x": 640,
+      "y": 395,
+      "kmNorth": 2200,
+      "description": "Terras agrícolas a leste da grande estrada e ao norte das muralhas, entre a montanha e o canal de gelo.",
+      "strategicNote": "Celeiro que sustenta Ruthless e a guarnição das Muralhas."
+    },
+    {
+      "id": "muralha-tripla",
+      "name": "As Três Irmãs de Pedra",
+      "settlement": "Muralha Tripla (Freddom — Freya, Frigg e Skadi)",
+      "macroRegion": "Norte",
+      "houseId": "freddom",
+      "terrain": "muralha",
+      "climate": "Corredor fortificado cortando o continente de oeste a leste",
+      "x": 485,
+      "y": 485,
+      "kmNorth": 2650,
+      "description": "Três muralhas monumentais paralelas que dividem o continente ao meio e bloqueiam até o canal congelado leste.",
+      "strategicNote": "Guardiões neutros do Grande Pacto; detêm as chaves entre Norte e Sul."
+    },
+    {
+      "id": "solar-outonal",
+      "name": "Bosques Outonais (Noroeste do Sul)",
+      "settlement": "Solar Outonal (Kühl)",
+      "macroRegion": "Terras Outonais",
+      "houseId": "kuhl",
+      "terrain": "floresta",
+      "climate": "Colinas e florestas de folhas vermelhas, laranjas e douradas na costa noroeste do Sul",
+      "x": 335,
+      "y": 585,
+      "kmNorth": 3250,
+      "description": "Domínio soberano da Casa Kühl logo ao sul da Muralha, banhado pelo oceano ocidental.",
+      "strategicNote": "Banco central de Aerthel; apoiado pelas maiores Vallen (Porto Cinza), Merrick (Alameda) e Goldwyn (frota mercante), e pelas menores Dornel, Brekker, Stroud e Lindel."
+    },
+    {
+      "id": "vermer",
+      "name": "Cidadela Central da Coroa",
+      "settlement": "Vermer (Coroa)",
+      "macroRegion": "Terras da Coroa",
+      "houseId": "grenfall",
+      "terrain": "planicie",
+      "climate": "Temperado, no coração exato da metade sul do continente",
+      "x": 648,
+      "y": 632,
+      "kmNorth": 3700,
+      "description": "Metrópole colossal cercada por um anel duplo de muralhas octogonais no centro das rotas do Sul.",
+      "strategicNote": "Sede do Trono de Aerthel; sustentada pelas maiores Vaelmont (leis), Crayne (pontes), Halcyon (medicina) e Avernus (Fosso de Cinzas Negras), e pelas menores Saiget, Marlow, Oster, Belvar, Serrett e Voss."
+    },
+    {
+      "id": "cabo-da-cinza",
+      "name": "Costa e Floresta Oriental",
+      "settlement": "Cabo da Cinza (Skar)",
+      "macroRegion": "Golfo Oriental",
+      "houseId": "skar",
+      "terrain": "costa",
+      "climate": "Matas costeiras densas e baía marítima oriental abaixo do canal de gelo",
+      "x": 755,
+      "y": 675,
+      "kmNorth": 3800,
+      "description": "Faixa florestal e portuária a leste da Coroa, dominando a grande baía oriental e o Golfo Oriental.",
+      "strategicNote": "Poder naval regular do reino; inclui as maiores Rook, Draven e Cael, as menores Velkor, Solen e Marrow, e o antigo solar Morvain."
+    },
+    {
+      "id": "fortaleza-do-grifo",
+      "name": "Terras Ancestrais do Centro-Sul",
+      "settlement": "Fortaleza do Grifo (Grenfall do Grifo)",
+      "macroRegion": "Terras da Coroa",
+      "houseId": "grenfall-grifo",
+      "terrain": "planicie",
+      "climate": "Vales verdes, campos de trigo e bosques entre a Coroa e a Via Imperial",
+      "x": 492,
+      "y": 778,
+      "kmNorth": 4450,
+      "description": "Terras férteis originais da Casa Grenfall ao sul da Cidadela da Coroa e acima do Deserto Sulino.",
+      "strategicNote": "Sustentadas pelas maiores Talren (minas), Corvell (campos), Alder (celeiros) e Hart, e pelas menores Fenwick (costa) e Brask (fundições)."
+    },
+    {
+      "id": "ilhas-da-serpente",
+      "name": "Arquipélago e Península Sudoeste",
+      "settlement": "Ilhas da Serpente (Skalmark)",
+      "macroRegion": "Mar da Serpente",
+      "houseId": "skalmark",
+      "terrain": "ilha",
+      "climate": "Marítimo, ventoso, com estreito costeiro e três ilhas verdes a oeste",
+      "x": 195,
+      "y": 790,
+      "kmNorth": 4600,
+      "description": "Conjunto de ilhas ocidentais e península costeira a sudoeste de Kühl e Grenfall.",
+      "strategicNote": "Lorde Protetor das Marés; parceiros secretos de contrabando com o Norte e suseranos das maiores Varn e Drek e das menores Kestrel e Silt."
+    },
+    {
+      "id": "oasis-de-ambar",
+      "name": "Deserto Sulino (Extremo Sul)",
+      "settlement": "Oásis de Âmbar (Solayne)",
+      "macroRegion": "Oeste",
+      "houseId": "solayne",
+      "terrain": "deserto",
+      "climate": "Dunas escaldantes, palmeiras e grandes oásis azuis abaixo da Via Imperial",
+      "x": 450,
+      "y": 900,
+      "kmNorth": 5400,
+      "description": "Vasto deserto meridional no extremo sul de Aerthel, pontilhado por oásis fortificados e cisternas subterrâneas.",
+      "strategicNote": "Monopólio da água dentro do deserto (Casa Khai), guarda militar Vashar e exportação de especiarias, vidro e toxinas."
+    }
+  ],
+  "routes": [
+    {
+      "id": "r1",
+      "fromId": "escarpas-de-vultur",
+      "toId": "pico-de-ferro",
+      "distanceKm": 480,
+      "mode": "trilha",
+      "hazard": 4,
+      "note": "Desfiladeiros gelados da cordilheira noroeste"
+    },
+    {
+      "id": "r2",
+      "fromId": "escarpas-de-vultur",
+      "toId": "ruthless",
+      "distanceKm": 680,
+      "mode": "trilha",
+      "hazard": 4,
+      "note": "Passagem das montanhas centrais até Ruthless"
+    },
+    {
+      "id": "r3",
+      "fromId": "escarpas-de-vultur",
+      "toId": "basgard",
+      "distanceKm": 920,
+      "mode": "trilha",
+      "hazard": 4,
+      "note": "Rota boreal de alta altitude ligando Vultur a Basgard"
+    },
+    {
+      "id": "r4",
+      "fromId": "pico-de-ferro",
+      "toId": "ruthless",
+      "distanceKm": 520,
+      "mode": "rio",
+      "hazard": 2,
+      "note": "Afluente ocidental até o planalto de Kazimir"
+    },
+    {
+      "id": "r5",
+      "fromId": "basgard",
+      "toId": "ruthless",
+      "distanceKm": 640,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Via Imperial (trecho norte) margeando o canal"
+    },
+    {
+      "id": "r6",
+      "fromId": "basgard",
+      "toId": "solar-do-vale",
+      "distanceKm": 890,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Rota oriental do Mar de Gelo até o celeiro Draemont"
+    },
+    {
+      "id": "r7",
+      "fromId": "pico-de-ferro",
+      "toId": "mata-velha",
+      "distanceKm": 550,
+      "mode": "trilha",
+      "hazard": 3,
+      "note": "Trilhas madeireiras pela floresta de pinheiros"
+    },
+    {
+      "id": "r8",
+      "fromId": "pico-de-ferro",
+      "toId": "solar-outonal",
+      "distanceKm": 1350,
+      "mode": "mar",
+      "hazard": 3,
+      "note": "Rota naval ocidental contornando as Muralhas"
+    },
+    {
+      "id": "r9",
+      "fromId": "mata-velha",
+      "toId": "ruthless",
+      "distanceKm": 590,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Estrada florestal da guarda Glaedwyn"
+    },
+    {
+      "id": "r10",
+      "fromId": "mata-velha",
+      "toId": "pouso-do-corvo",
+      "distanceKm": 540,
+      "mode": "rio",
+      "hazard": 2,
+      "note": "Vale fluvial entre a floresta oeste e Prerwall"
+    },
+    {
+      "id": "r11",
+      "fromId": "mata-velha",
+      "toId": "muralha-tripla",
+      "distanceKm": 620,
+      "mode": "trilha",
+      "hazard": 2,
+      "note": "Patrulha da fronteira ocidental até o portão Freya"
+    },
+    {
+      "id": "r12",
+      "fromId": "ruthless",
+      "toId": "pouso-do-corvo",
+      "distanceKm": 420,
+      "mode": "estrada",
+      "hazard": 1,
+      "note": "Eixo central do Norte rumo às muralhas"
+    },
+    {
+      "id": "r13",
+      "fromId": "ruthless",
+      "toId": "solar-do-vale",
+      "distanceKm": 610,
+      "mode": "rio",
+      "hazard": 2,
+      "note": "Comboios de grãos pelo rio oriental"
+    },
+    {
+      "id": "r14",
+      "fromId": "pouso-do-corvo",
+      "toId": "solar-do-vale",
+      "distanceKm": 460,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Travessia leste para as terras Draemont"
+    },
+    {
+      "id": "r15",
+      "fromId": "pouso-do-corvo",
+      "toId": "muralha-tripla",
+      "distanceKm": 380,
+      "mode": "estrada",
+      "hazard": 1,
+      "note": "Descida até os portões de Freya, Frigg e Skadi"
+    },
+    {
+      "id": "r16",
+      "fromId": "solar-do-vale",
+      "toId": "muralha-tripla",
+      "distanceKm": 410,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Acesso oriental às Três Muralhas"
+    },
+    {
+      "id": "r17",
+      "fromId": "muralha-tripla",
+      "toId": "solar-outonal",
+      "distanceKm": 620,
+      "mode": "estrada",
+      "hazard": 1,
+      "note": "Saída de Skadi para os bosques outonais de Kühl"
+    },
+    {
+      "id": "r18",
+      "fromId": "muralha-tripla",
+      "toId": "vermer",
+      "distanceKm": 740,
+      "mode": "estrada",
+      "hazard": 1,
+      "note": "Via Imperial direta do portão central à Cidadela da Coroa"
+    },
+    {
+      "id": "r19",
+      "fromId": "muralha-tripla",
+      "toId": "cabo-da-cinza",
+      "distanceKm": 820,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Via costeira leste até os estaleiros Skar"
+    },
+    {
+      "id": "r20",
+      "fromId": "solar-outonal",
+      "toId": "vermer",
+      "distanceKm": 560,
+      "mode": "estrada",
+      "hazard": 1,
+      "note": "Rota bancária entre Kühl e a Coroa"
+    },
+    {
+      "id": "r21",
+      "fromId": "solar-outonal",
+      "toId": "fortaleza-do-grifo",
+      "distanceKm": 790,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Estrada mercantil de Alameda até as minas Talren"
+    },
+    {
+      "id": "r22",
+      "fromId": "solar-outonal",
+      "toId": "ilhas-da-serpente",
+      "distanceKm": 820,
+      "mode": "mar",
+      "hazard": 3,
+      "note": "Rota marítima ocidental até o estreito e ilhas Skalmark"
+    },
+    {
+      "id": "r23",
+      "fromId": "solar-outonal",
+      "toId": "cabo-da-cinza",
+      "distanceKm": 1120,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Travessia transversal sul contornando Vermer"
+    },
+    {
+      "id": "r24",
+      "fromId": "vermer",
+      "toId": "cabo-da-cinza",
+      "distanceKm": 520,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Caminho pelas matas orientais até a costa Skar"
+    },
+    {
+      "id": "r25",
+      "fromId": "vermer",
+      "toId": "fortaleza-do-grifo",
+      "distanceKm": 580,
+      "mode": "estrada",
+      "hazard": 1,
+      "note": "Via Imperial descendo pelas terras Grenfall"
+    },
+    {
+      "id": "r26",
+      "fromId": "vermer",
+      "toId": "ilhas-da-serpente",
+      "distanceKm": 980,
+      "mode": "mar",
+      "hazard": 3,
+      "note": "Navegação pelo estreito sudoeste até os portos Skalmark"
+    },
+    {
+      "id": "r27",
+      "fromId": "basgard",
+      "toId": "cabo-da-cinza",
+      "distanceKm": 2400,
+      "mode": "mar",
+      "hazard": 4,
+      "note": "Grande rota marítima oriental pelo Mar de Gelo e comporta"
+    },
+    {
+      "id": "r28",
+      "fromId": "basgard",
+      "toId": "ilhas-da-serpente",
+      "distanceKm": 3600,
+      "mode": "mar",
+      "hazard": 5,
+      "note": "Rota clandestina de contrabando Kazimir–Skalmark"
+    },
+    {
+      "id": "r29",
+      "fromId": "cabo-da-cinza",
+      "toId": "fortaleza-do-grifo",
+      "distanceKm": 760,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Estrada da Baía da Coroa até o centro-sul Grenfall"
+    },
+    {
+      "id": "r30",
+      "fromId": "cabo-da-cinza",
+      "toId": "oasis-de-ambar",
+      "distanceKm": 1150,
+      "mode": "mar",
+      "hazard": 3,
+      "note": "Rota naval sudeste até o porto do Deserto Sulino"
+    },
+    {
+      "id": "r31",
+      "fromId": "cabo-da-cinza",
+      "toId": "ilhas-da-serpente",
+      "distanceKm": 1750,
+      "mode": "mar",
+      "hazard": 4,
+      "note": "Circunavegação do extremo sul entre frotas rivais"
+    },
+    {
+      "id": "r32",
+      "fromId": "fortaleza-do-grifo",
+      "toId": "ilhas-da-serpente",
+      "distanceKm": 690,
+      "mode": "estrada",
+      "hazard": 2,
+      "note": "Ramal sudoeste até a península e canal Skalmark"
+    },
+    {
+      "id": "r33",
+      "fromId": "fortaleza-do-grifo",
+      "toId": "oasis-de-ambar",
+      "distanceKm": 780,
+      "mode": "estrada",
+      "hazard": 3,
+      "note": "Cruzamento da Via Imperial para os oásis de Solayne"
+    },
+    {
+      "id": "r34",
+      "fromId": "ilhas-da-serpente",
+      "toId": "oasis-de-ambar",
+      "distanceKm": 910,
+      "mode": "mar",
+      "hazard": 3,
+      "note": "Rota de especiarias e contrabando entre Skalmark e Solayne"
+    }
+  ]
+}
