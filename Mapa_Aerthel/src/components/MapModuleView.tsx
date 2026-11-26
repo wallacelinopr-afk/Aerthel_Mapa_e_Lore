@@ -15,13 +15,13 @@ interface Props {
 }
 
 const SUB_HOUSE_PINS: SubPin[] = [
-  { id: 'vardell', x: 175, y: 235, regionId: 'pico-de-ferro' },
+  { id: 'vardell', x: 175, y: 235, regionId: 'furna-negra' },
   { id: 'hausen', x: 560, y: 172, regionId: 'basgard' },
   { id: 'thornwall', x: 672, y: 185, regionId: 'basgard' },
   { id: 'vane', x: 428, y: 280, regionId: 'ruthless' },
   { id: 'hylton', x: 540, y: 255, regionId: 'ruthless' },
   { id: 'coolys', x: 445, y: 222, regionId: 'ruthless' },
-  { id: 'corvin', x: 432, y: 392, regionId: 'pouso-do-corvo' },
+  { id: 'corvin', x: 432, y: 392, regionId: 'veu-da-garganta' },
   { id: 'vallen', x: 515, y: 535, regionId: 'solar-outonal' },
   { id: 'merrick', x: 375, y: 632, regionId: 'solar-outonal' },
   { id: 'goldwyn', x: 242, y: 575, regionId: 'solar-outonal' },

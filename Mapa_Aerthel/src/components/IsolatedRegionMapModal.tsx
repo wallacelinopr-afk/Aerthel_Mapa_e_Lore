@@ -25,29 +25,29 @@ const REGION_LANDMARKS: Record<string, { name: string; dx: number; dy: number; t
     { name: 'Picos de Vultur', dx: -34, dy: -28, tag: 'Cordilheira' },
     { name: 'Passo do Vento Branco', dx: 26, dy: 24, tag: 'Passagem' },
   ],
-  'pico-de-ferro': [
-    { name: 'Forjas do Aço Negro', dx: 22, dy: -18, tag: 'Minas' },
-    { name: 'Baía Ocidental', dx: -44, dy: 12, tag: 'Costa' },
+  'furna-negra': [
+    { name: 'Forjas da Serra da Escória', dx: 22, dy: -18, tag: 'Minas' },
+    { name: 'Fiorde de Angra do Chumbo', dx: -44, dy: 12, tag: 'Costa' },
   ],
   basgard: [
     { name: 'Mar de Gelo', dx: 48, dy: 18, tag: 'Geleira' },
-    { name: 'Torreão da Vigília', dx: -24, dy: -22, tag: 'Fortim' },
+    { name: 'Arsenal de Quilha-Negra', dx: -24, dy: -22, tag: 'Armada' },
   ],
   ruthless: [
     { name: 'Cidadela de Ruthless', dx: 0, dy: -12, tag: 'Sede Soberana' },
     { name: 'Entroncamento Real Norte', dx: 28, dy: 14, tag: 'Estrada' },
   ],
-  'mata-velha': [
-    { name: 'Mata dos Pinheiros Antigos', dx: -22, dy: -18, tag: 'Floresta' },
+  'lenha-funda': [
+    { name: 'Bosque de Âmbar-Gelo', dx: -22, dy: -18, tag: 'Floresta' },
     { name: 'Ribeira de Glaedwyn', dx: 30, dy: 26, tag: 'Rio' },
   ],
-  'pouso-do-corvo': [
+  'veu-da-garganta': [
     { name: 'Garganta Congelada', dx: -32, dy: -20, tag: 'Cânion' },
-    { name: 'Vigília dos Corvos', dx: 24, dy: 18, tag: 'Guarnição' },
+    { name: 'Cidadela-Ponte do Degelo', dx: 24, dy: 18, tag: 'Arquivo' },
   ],
-  'solar-do-vale': [
-    { name: 'Penhascos de Draemont', dx: 24, dy: -24, tag: 'Montanha' },
-    { name: 'Vale das Neves', dx: -28, dy: 20, tag: 'Vale' },
+  'varzea-do-vapor': [
+    { name: 'Fontes Termais de Draemont', dx: 24, dy: -24, tag: 'Geotérmico' },
+    { name: 'Campos de Cinza-Morno', dx: -28, dy: 20, tag: 'Várzea' },
   ],
   'muralha-tripla': [
     { name: '1ª Muralha · Freya', dx: -35, dy: -16, tag: 'Muralha' },

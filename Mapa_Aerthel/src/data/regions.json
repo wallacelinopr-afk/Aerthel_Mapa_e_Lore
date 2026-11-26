@@ -16,9 +16,9 @@
       "strategicNote": "Vigia toda a cordilheira ocidental; ligada por casamento a Kargard."
     },
     {
-      "id": "pico-de-ferro",
-      "name": "Encostas de Ferro",
-      "settlement": "Pico de Ferro (Cortry)",
+      "id": "furna-negra",
+      "name": "Serra da Escória",
+      "settlement": "Furna Negra (Cortry)",
       "macroRegion": "Norte",
       "houseId": "cortry",
       "terrain": "montanha",
@@ -26,8 +26,8 @@
       "x": 240,
       "y": 205,
       "kmNorth": 950,
-      "description": "Minas profundas e fundições ao sul dos picos Vultur, onde nasce o afluente ocidental.",
-      "strategicNote": "Fornece o aço negro do Norte; abriga a vassala menor Casa Vardell na costa oeste."
+      "description": "Falha vulcânica-glacial e minas profundas ao sul dos picos Vultur, onde nasce o afluente ocidental.",
+      "strategicNote": "Barões do aço negro boreal; abriga a vassala menor Casa Vardell em Angra do Chumbo na costa oeste."
     },
     {
       "id": "basgard",
@@ -41,7 +41,7 @@
       "y": 140,
       "kmNorth": 680,
       "description": "Domínio nordeste às margens da grande via nortenha e da costa congelada do Mar de Gelo.",
-      "strategicNote": "Controla o acesso nordeste, os estaleiros Hausen e as terras do ramo remanescente Thornwall."
+      "strategicNote": "Controla o acesso nordeste, o Arsenal Naval de Quilha-Negra (Hausen) e o Solar da Cinza Fria (Thornwall)."
     },
     {
       "id": "ruthless",
@@ -55,12 +55,12 @@
       "y": 265,
       "kmNorth": 1350,
       "description": "A grande fortaleza quadrada de pedra negra erguida no centro do Norte, junto à Via Imperial.",
-      "strategicNote": "Sede soberana dos Kazimir; cercada pelas casas menores Vane, Hylton e Coolys."
+      "strategicNote": "Sede soberana dos Kazimir; cercada pelos senhorios menores de Vau-Vermelho (Vane), Pedra-Funda (Hylton) e Solar do Lacre (Coolys)."
     },
     {
-      "id": "mata-velha",
-      "name": "Florestas Ocidentais",
-      "settlement": "Mata Velha (Glaedwyn)",
+      "id": "lenha-funda",
+      "name": "Bosque Ocidental de Âmbar-Gelo",
+      "settlement": "Lenha-Funda (Glaedwyn)",
       "macroRegion": "Norte",
       "houseId": "glaedwyn",
       "terrain": "floresta",
@@ -68,36 +68,36 @@
       "x": 255,
       "y": 345,
       "kmNorth": 1850,
-      "description": "Imensa mata de coníferas que ocupa toda a costa oeste do Norte acima das Muralhas.",
-      "strategicNote": "Madeira de lei e guerra de emboscada; flanco esquerdo natural de Ruthless."
+      "description": "Antigo domínio florestal de coníferas gigantes que ocupa toda a costa oeste do Norte acima das Muralhas.",
+      "strategicNote": "Velha nobreza pré-Freddom; exporta madeira naval e resina de âmbar-gelo e protege o flanco oeste de Ruthless."
     },
     {
-      "id": "pouso-do-corvo",
-      "name": "Confluência Central",
-      "settlement": "Pouso do Corvo (Prerwall)",
+      "id": "veu-da-garganta",
+      "name": "Confluência Sul",
+      "settlement": "Véu da Garganta (Prerwall)",
       "macroRegion": "Norte",
       "houseId": "prerwall",
       "terrain": "tundra",
-      "climate": "Ventos frios na junção dos rios antes da Muralha",
+      "climate": "Ventos frios na junção dos rios sobre as cataratas da Garganta Congelada",
       "x": 480,
       "y": 370,
       "kmNorth": 2050,
-      "description": "Fortaleza e biblioteca situadas diretamente ao sul de Ruthless, vigiando a Via Imperial.",
-      "strategicNote": "Centro de inteligência do Norte e sede da casa menor Corvin."
+      "description": "Cidadela-ponte e Grande Arquivo situados ao sul de Ruthless, trancando a entrada da Garganta Congelada.",
+      "strategicNote": "Quarto Pilar do Norte; guarda a Cláusula das Cinzas original de Haldor e tem como sub-vassala a Casa Corvin."
     },
     {
-      "id": "solar-do-vale",
-      "name": "Planície Sudeste do Norte",
-      "settlement": "Solar do Vale (Draemont)",
+      "id": "varzea-do-vapor",
+      "name": "Bacia Geotérmica do Sudeste",
+      "settlement": "Várzea do Vapor (Draemont)",
       "macroRegion": "Norte",
       "houseId": "draemont",
       "terrain": "vale",
-      "climate": "Várzeas frias irrigadas a leste da Via Imperial e ao sul do Mar de Gelo",
+      "climate": "Várzeas aquecidas por fontes termais subterrâneas a leste da Via Imperial",
       "x": 640,
       "y": 395,
       "kmNorth": 2200,
-      "description": "Terras agrícolas a leste da grande estrada e ao norte das muralhas, entre a montanha e o canal de gelo.",
-      "strategicNote": "Celeiro que sustenta Ruthless e a guarnição das Muralhas."
+      "description": "Bacia fértil de solo aquecido por vapores subterrâneos entre a montanha e o canal do Mar de Gelo.",
+      "strategicNote": "Senhorio mais rico em grãos e pastagens do Norte; unido por casamento a Alaric Prerwall."
     },
     {
       "id": "muralha-tripla",
@@ -202,7 +202,7 @@
     {
       "id": "r1",
       "fromId": "escarpas-de-vultur",
-      "toId": "pico-de-ferro",
+      "toId": "furna-negra",
       "distanceKm": 480,
       "mode": "trilha",
       "hazard": 4,
@@ -228,12 +228,12 @@
     },
     {
       "id": "r4",
-      "fromId": "pico-de-ferro",
+      "fromId": "furna-negra",
       "toId": "ruthless",
       "distanceKm": 520,
       "mode": "rio",
       "hazard": 2,
-      "note": "Afluente ocidental até o planalto de Kazimir"
+      "note": "Afluente ocidental da Serra da Escória até o planalto de Kazimir"
     },
     {
       "id": "r5",
@@ -247,51 +247,51 @@
     {
       "id": "r6",
       "fromId": "basgard",
-      "toId": "solar-do-vale",
+      "toId": "varzea-do-vapor",
       "distanceKm": 890,
       "mode": "estrada",
       "hazard": 2,
-      "note": "Rota oriental do Mar de Gelo até o celeiro Draemont"
+      "note": "Rota oriental do Mar de Gelo até as terras termais de Draemont"
     },
     {
       "id": "r7",
-      "fromId": "pico-de-ferro",
-      "toId": "mata-velha",
+      "fromId": "furna-negra",
+      "toId": "lenha-funda",
       "distanceKm": 550,
       "mode": "trilha",
       "hazard": 3,
-      "note": "Trilhas madeireiras pela floresta de pinheiros"
+      "note": "Trilhas senhoriais pelo Bosque de Âmbar-Gelo"
     },
     {
       "id": "r8",
-      "fromId": "pico-de-ferro",
+      "fromId": "furna-negra",
       "toId": "solar-outonal",
       "distanceKm": 1350,
       "mode": "mar",
       "hazard": 3,
-      "note": "Rota naval ocidental contornando as Muralhas"
+      "note": "Rota naval ocidental de Angra do Chumbo contornando as Muralhas"
     },
     {
       "id": "r9",
-      "fromId": "mata-velha",
+      "fromId": "lenha-funda",
       "toId": "ruthless",
       "distanceKm": 590,
       "mode": "estrada",
       "hazard": 2,
-      "note": "Estrada florestal da guarda Glaedwyn"
+      "note": "Estrada florestal dos domínios Glaedwyn"
     },
     {
       "id": "r10",
-      "fromId": "mata-velha",
-      "toId": "pouso-do-corvo",
+      "fromId": "lenha-funda",
+      "toId": "veu-da-garganta",
       "distanceKm": 540,
       "mode": "rio",
       "hazard": 2,
-      "note": "Vale fluvial entre a floresta oeste e Prerwall"
+      "note": "Vale fluvial entre Lenha-Funda e a cidadela de Prerwall"
     },
     {
       "id": "r11",
-      "fromId": "mata-velha",
+      "fromId": "lenha-funda",
       "toId": "muralha-tripla",
       "distanceKm": 620,
       "mode": "trilha",
@@ -301,16 +301,16 @@
     {
       "id": "r12",
       "fromId": "ruthless",
-      "toId": "pouso-do-corvo",
+      "toId": "veu-da-garganta",
       "distanceKm": 420,
       "mode": "estrada",
       "hazard": 1,
-      "note": "Eixo central do Norte rumo às muralhas"
+      "note": "Eixo central do Norte rumo à Garganta Congelada"
     },
     {
       "id": "r13",
       "fromId": "ruthless",
-      "toId": "solar-do-vale",
+      "toId": "varzea-do-vapor",
       "distanceKm": 610,
       "mode": "rio",
       "hazard": 2,
@@ -318,25 +318,25 @@
     },
     {
       "id": "r14",
-      "fromId": "pouso-do-corvo",
-      "toId": "solar-do-vale",
+      "fromId": "veu-da-garganta",
+      "toId": "varzea-do-vapor",
       "distanceKm": 460,
       "mode": "estrada",
       "hazard": 2,
-      "note": "Travessia leste para as terras Draemont"
+      "note": "Eixo matrimonial Prerwall–Draemont"
     },
     {
       "id": "r15",
-      "fromId": "pouso-do-corvo",
+      "fromId": "veu-da-garganta",
       "toId": "muralha-tripla",
       "distanceKm": 380,
       "mode": "estrada",
       "hazard": 1,
-      "note": "Descida até os portões de Freya, Frigg e Skadi"
+      "note": "Descida pela Garganta Congelada até Freya, Frigg e Skadi"
     },
     {
       "id": "r16",
-      "fromId": "solar-do-vale",
+      "fromId": "varzea-do-vapor",
       "toId": "muralha-tripla",
       "distanceKm": 410,
       "mode": "estrada",
@@ -449,7 +449,7 @@
       "distanceKm": 3600,
       "mode": "mar",
       "hazard": 5,
-      "note": "Rota clandestina de contrabando Kazimir–Skalmark"
+      "note": "Rota na névoa da antiga Cláusula das Cinzas (Ponte de Haldor Kazimir–Skalmark)"
     },
     {
       "id": "r29",
