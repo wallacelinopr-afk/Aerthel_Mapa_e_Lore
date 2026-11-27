@@ -18,7 +18,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Aristocracia Alpina Pré-Boreal (Mais antiga que Kazimir e Freddom; isolada nos picos desde antes das crônicas escritas). Nascidos de clãs guerreiros das geleiras altas que nunca reconheceram plenamente os reis das terras baixas. Sua rota histórica foi a da exclusão biológica e geográfica: durante as guerras das Muralhas e a Fome Negra, simplesmente derrubaram as pontes de pedra da Cordilheira Noroeste, massacraram refugiados famintos que tentavam subir e fecharam sua linhagem em casamentos consanguíneos para preservar sua casta guerreira de olhos claros e pulmões largos. Mantiveram-se intocados no topo do mundo até que a necessidade de ferro e alianças modernas os levou ao casamento recente de Elowen Vultur com o herdeiro de Basgard."
   },
   {
     "id": "osken",
@@ -39,7 +40,8 @@
     },
     "headId": null,
     "vassalOf": "solayne",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Nobreza do Deserto Caída em Desgraça e Reinventada no Comércio (Ex-senhores de oásis banidos que viraram mercadores-espiões). Há duzentos anos os Osken governavam um oásis menor que secou após uma disputa política perdida contra a Casa Khai. Sem terra e sem água, recusaram-se a morrer na areia: compraram camelos e carroças, migraram para as rotas entre o Oásis e a capital Vermer e reconstruíram a família como mercadores de vidro soprado, especiarias e traficantes de informações diplomáticas."
   },
   {
     "id": "draemont",
@@ -60,7 +62,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Nobreza Fundiária Ascendida pela Agiotagem do Grão (Mais jovem que Glaedwyn e Freddom, mas elevada ao topo durante a Grande Fome Negra). Originalmente um ramo secundário de pequenos senhores rurais que tiveram a sorte geográfica de herdar a bacia geotérmica da Várzea do Vapor. Sua rota para a grandeza foi fria e implacável: durante os 135 anos da Fome Negra e os nove anos do Inverno Longo (472–481), enquanto clãs guerreiros morriam de inanição, os Draemont venderam cevada em troca de terras, castelos, relíquias e submissão política. De simples senhores de vale tornaram-se os credores de comida do Norte, selando seu poder atual ao casar Lady Palla Draemont com Alaric Prerwall."
   },
   {
     "id": "freddom",
@@ -81,7 +84,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Linhagem Real Decaída em Guardiões (A dinastia real mais antiga do Norte, anterior à ascensão dos Kazimir em quatro séculos). Nascidos de chefes de guerra da Era do Gelo que unificaram Borea a machado, os Freddom governaram como reis absolutos até que o orgulho de Eadric Freddom colidiu com Kaelen Skar no Ano 0 (o Massacre de Cinzas Negras e a flecha na narina no Lago Prateado). Sua rota foi a de uma queda lenta por obsessão: três gerações de reis (Theron, o Louco, Aldric — que se enforcou — e Elys I) sangraram o próprio reino por 90 anos e 60.000 mortos para erguer Skadi, Frigg e Freya, transformando sua guarda real em caçadores de desertores com os cães Penitentes. Falidos e assombrados pela fome que criaram, abdicaram da coroa no Ano 290 para sobreviverem como os Guardiões perpétuos e neutros das Três Muralhas."
   },
   {
     "id": "mafteac",
@@ -102,7 +106,8 @@
     },
     "headId": null,
     "vassalOf": "solayne",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Escribas e Calculistas Plebeus Elevados pela Matemática (A casa mais jovem do Oásis de Âmbar, nascida pura e simplesmente do mérito burocrático). Não têm uma gota de sangue guerreiro ou tribal: descendem de contadores plebeus e filhos de mercadores de órfãos educados nas escolas do Oásis que reorganizaram as finanças de Vinda Solayne após a abertura do comércio com Vermer em 291. Subiram ao posto de Casa Menor guardiã dos Cofres do Oásis porque conseguem prever uma crise de grãos ou um desvio de ouro com três anos de antecedência."
   },
   {
     "id": "glaedwyn",
@@ -123,7 +128,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Sangue Real Silvestre Pré-Freddom (A linhagem nobre mais antiga de todo o Norte, anterior aos reis de pedra). Os Glaedwyn já eram reis das matas ocidentais quando os primeiros Freddom ainda eram chefes de aldeia. Quando a dinastia Freddom unificou o planalto, não conseguiu conquistar o labirinto florestal de Lenha-Funda e teve de assinar um pacto de sangue reconhecendo as leis próprias dos Glaedwyn. Enquanto o resto do Norte se arruinava desmatando tudo para erguer as Três Muralhas, os Glaedwyn protegeram suas árvores gigantes a flechadas, atravessaram a Fome Negra com fartura de caça e salmão e hoje enriquecem como fornecedores exclusivos da madeira naval da Cláusula das Cinzas."
   },
   {
     "id": "morvain",
@@ -144,7 +150,8 @@
     },
     "headId": null,
     "vassalOf": "skar",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "A Mais Antiga e Esotérica Linhagem do Leste — Hoje Extinta em Nome (Anterior à própria dinastia Skar; absorvida pelo sangue no Bloco III). Os Morvain diziam descender dos primeiros reis-sacerdotes que habitaram a costa oriental antes da fundação de Meridion. Obcecados por preservar a 'memória genética' de seu sangue antigo, recusaram casamentos com casas novas durante séculos, trancando-se em casamentos entre primos e estudos de alquimia e venenos. Sua rota foi a da autodestruição biológica: no Bloco III, geração após geração de natimortos, hemorragias e loucura esvaziou seus castelos (hoje as Ruínas Francas de Morvain), até restar apenas Lady Rhias Morvain (45) — que se casou com Lorde Malrik Skar (50), extinguindo o sobrenome Morvain, mas injetando sua herança sombria nas três filhas herdeiras de Cabo da Cinza (Serenya, Namira e Sigrid)."
   },
   {
     "id": "grenfall",
@@ -165,7 +172,8 @@
     },
     "headId": null,
     "vassalOf": null,
-    "tier": "coroa"
+    "tier": "coroa",
+    "origin": "De Mercadores e Nobres Menores a Reis pelo Machado (Mais jovem em sangue real que Skar e Freddom; subiu no ferro e no trigo). Durante toda a Era Antiga, enquanto os Skar usavam anéis de ouro no trono de Meridion, os Grenfall eram apenas senhores menores de caravanas e pequenos armazéns de grãos nas estradas do oeste — meio nobres de fronteira, meio mercadores de lama nas botas. Sua rota para a Coroa teve três degraus brutais: primeiro, na Peste de 130, Kaldor Grenfall ficou na capital queimando cadáveres e alimentando o povo enquanto o Rei Daeron Skar se trancava no palácio; segundo, no Ano 145 (Golpe na Lama Vermelha), Kaldor abriu o crânio do rei fujão com um machado enferrujado de cortar lenha; terceiro, após um século de fome que forçou Bram e Cedric a recuarem para um feudo menor, Julian Grenfall (235–311) usou o cobre do casamento com Mira Talren, estradas seguras e o cerco econômico para unificar 17 clãs, exilar o último Skar (278) e receber a coroa do Norte no Penhasco de Vidro (290). Hoje, após 300 anos e 7 gerações no trono de Vermer, o Rei Barttloven Grenfall carrega a glória dos fundadores, mas governa acorrentado às dívidas do Banco Kühl."
   },
   {
     "id": "grenfall-grifo",
@@ -186,7 +194,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall",
-    "tier": "soberana"
+    "tier": "soberana",
+    "origin": "Ramo Colateral Soberano da Casa Real (Nascido na Partilha do Terceiro Dia, Ano 291, do tronco de Edric Grenfall). Quando Julian Grenfall unificou Aerthel e transformou Vermer na sede da Coroa, recusou-se a entregar as terras ancestrais onde seus avós Bram e Cedric haviam resistido à Grande Fome Negra a estranhos. Na Grande Assembleia de 291, separou o patrimônio da família: Vermer ficou com a Coroa, e o Centro-Sul foi entregue com status de Casa Soberana ao seu irmão mais novo, Edric Grenfall (39 anos, o homem de mãos calejadas que construíra o reino ao seu lado). Como o filho mais velho de Edric (Toren Grenfall) foi adotado por Julian para herdar o Trono de Aerthel e casar com Soraia Solayne, o segundo filho de Edric herdou a Fortaleza do Grifo — gerando um ramo orgulhoso que se vê como o guardião do 'verdadeiro sangue rústico' dos Grenfall, livre da decadência cortesã de Vermer."
   },
   {
     "id": "hart",
@@ -207,7 +216,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall-grifo",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Grande Casa Antiga Arruinada e Sem Terra (Mais antiga que quase todos os vassalos do Sul, hoje reduzida à espada alugada). Na época da fundação de Aerthel, os Hart eram senhores poderosos dos penhascos costeiros da Ponta da Lágrima. Há três gerações, durante uma crise de dívidas e uma disputa armada de sucessão naval no Golfo, o patriarca Hart apostou contra o Banco Kühl e a Coroa, sendo acusado de quebra da paz real. Teve o castelo demolido, as terras confiscadas e o tesouro tomado por cobradores Brekker. Hoje são reis sem chão: criam seus filhos em solares emprestados com um orgulho trágico e letal, transformando cada jovem Hart em um duelista de aluguel obcecado por comprar ou retomar pela força o feudo roubado."
   },
   {
     "id": "zhouti",
@@ -228,7 +238,8 @@
     },
     "headId": null,
     "vassalOf": null,
-    "tier": "estrangeira"
+    "tier": "estrangeira",
+    "origin": "Dinastia Imperial Milenar de Além-Mar (Mais antiga que todas as casas e reinos de Aerthel; civilização soberana do Oriente). Enquanto Borea e Meridion ainda eram tribos brigando por ferro cru e trigo, o Império de Zhouti já possuía cidades de um milhão de habitantes, papel-moeda, astronomia imperial e a fórmula secreta da pólvora negra do outro lado do Oceano Oriental. Não vieram a Aerthel como conquistadores feudais porque consideram a guerra de espadas bárbara e cara: após o Grande Pacto (291), estabeleceram enclaves portuários na Rota de Jade, comprando a dependência dos reis e lordes ocidentais através do monopólio da seda, das especiarias orientais e do 'Fogo de Dragão' (pólvora)."
   },
   {
     "id": "kazimir",
@@ -249,7 +260,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall",
-    "tier": "soberana"
+    "tier": "soberana",
+    "origin": "Nobreza Menor Ascendida na Fome (Mais jovem em soberania que os antigos reis Freddom). Na Era Antiga, os Kazimir não passavam de barões menores de entreposto fluvial, cobrando pedágio de balsas lamacentas no meio do planalto enquanto os Freddom usavam a coroa. Sua rota de ascensão foi pavimentada pelo horror da Grande Fome Negra (Anos 145–280): vendo pais se sangrarem para alimentar filhos e mães afogando os próprios bebês antes de cortarem a garganta para fugir da inanição lenta, os Kazimir fecharam o cruzamento dos rios em Ruthless, impuseram a forca contra saqueadores e monopolizaram a mediação de ferro por cevada. Cresceram engolindo a autoridade moral de uma dinastia Freddom exaurida até que, no Penhasco de Vidro (290), Elys II reconheceu que apenas Ruthless mantinha o Norte vivo. Após a Tragédia do Canil (292), Haldor Kazimir selou o destino da casa no ferro e no luto, criando a Cláusula das Cinzas com Skalmark."
   },
   {
     "id": "cortry",
@@ -270,7 +282,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Barões Mineiros de Raiz Plebeia Endurecida (Mais antigos em riqueza que os Kazimir, nascidos de mestres-fundidores da Era Antiga). Há seiscentos anos, o fundador da Casa Cortry era um capataz de mina plebeu que liderou uma revolta sangrenta nas galerias da Serra da Escória, degolou o antigo lorde cobrador de impostos com uma picareta em brasa e tomou Furna Negra. Os reis Freddom tentaram submetê-los, mas precisavam tanto do aço negro para armar tropas e cortar pedras das Muralhas que tiveram de reconhecer os Cortry como Grandes Barões. Cresceram vendendo ferro a preço de sangue e atingiram o ápice político no Bloco III ao casarem uma filha com o próprio Haldor Kazimir, tornando-se os avós maternos da dinastia soberana de Ruthless."
   },
   {
     "id": "hylton",
@@ -291,7 +304,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Ramo Cadete de Antigos Juízes Reais (Mais antiga que os Kazimir; ex-servidores da coroa Freddom que trocaram de mestre). Descendentes de um ramo colateral dos antigos inquisidores que administravam as prisões subterrâneas durante o reinado de Theron, o Louco. Quando perceberam que a dinastia Freddom estava afundando na loucura das Muralhas, os Hylton transferiram silenciosamente seus arquivos e o controle das cavernas termais de Pedra-Funda para o lado dos Kazimir. Sobreviveram à queda de seus antigos reis tornando-se os carcereiros de Estado e guardiões de reféns nobres da nova ordem de Ruthless."
   },
   {
     "id": "kargard",
@@ -312,7 +326,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Nobreza Guerreira Ancestral (Mais antiga que os próprios Kazimir; par militar histórico dos antigos reis Freddom). Descendentes diretos dos primeiros senhores da guerra que expulsaram os saqueadores do Mar de Gelo na fundação de Borea. Nunca nasceram de plebeus nem dobraram o joelho por fome: cresceram na lâmina, transformando a Costa de Ferro em uma caserna permanente onde cada inverno era uma campanha de extermínio contra piratas orientais. Quando os Freddom caíram em 290, os Kargard aceitaram a mediação de Ruthless porque precisavam do grão do interior, mas mantiveram sua autonomia marcial intacta — provada quando Berck Kargard enfrentou Haldor no conselho por Lyra e depois cavalgou para massacrar os Thornwall."
   },
   {
     "id": "kuhl",
@@ -333,7 +348,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall",
-    "tier": "soberana"
+    "tier": "soberana",
+    "origin": "De Cambistas e Mineradores de Ouro a Donos da Dívida do Trono (Mais jovem em sangue nobre que Freddom e Skar, mas soberana absoluta pelo ouro). Na Era Antiga, os Kühl não eram reis nem generais: eram uma família de mineradores de aluvião, ensaiadores de metal e banqueiros privados nas colinas ocidentais. Enquanto os reis do Norte e do Sul se arruinavam na Guerra do Degelo e no Século Vermelho, os Kühl descobriram que emprestar ouro para lordes desesperados comprarem comida dava mais terra do que qualquer exército. Guardaram suas reservas em cofres subterrâneos durante a Fome Negra e, quando Julian Grenfall convocou a Assembleia de Vermer (Ano 291, Bloco II), Aldous Kühl chegou três dias antes, andou disfarçado de mercador medindo andaimes e comprou a soberania das Terras Outonais ao impor a moeda de Padrão Kühl para todo o reino. O golpe de mestre veio um século depois, na Guerra das Águas Salgadas (388–394, Bloco III): com a Coroa falida, o Banco Kühl financiou a reconstrução naval e redigiu o Acordo dos Dois Mares — tornando cada rei em Vermer desde então um devedor de Solar Outonal."
   },
   {
     "id": "vardell",
@@ -354,7 +370,8 @@
     },
     "headId": null,
     "vassalOf": "cortry",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Piratas das Ilhas Frias Domesticados em Vassalos (Mais antigos no mar que a soberania de Kazimir, incorporados por pacto feudal). Não têm sangue continental: nasceram de capitães saqueadores e navegadores astronômicos das ilhotas congeladas do Mar Ocidental que aterrorizavam a costa oeste. Durante a Espiral (-22 a -1), os barões da Casa Cortry perceberam que era mais barato comprá-los do que combatê-los: entregaram aos Vardell o feudo costeiro de Angra do Chumbo em troca de escoarem o ferro de Furna Negra pelo oceano. Hoje vestem títulos de nobreza sob Cortry, mas continuam com alma de saqueadores de naufrágio."
   },
   {
     "id": "thornwall",
@@ -375,7 +392,8 @@
     },
     "headId": null,
     "vassalOf": "kargard",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Ramo Nobre Decaído de uma Grande Casa Purgada (Mais antiga que a própria Coroa Grenfall no Sul, reduzida a cinzas no Ano 292). Na Era Antiga e no início do Pacto, os Thornwall eram uma das casas mais ricas e extensas das planícies do Sul. Tudo ruiu em uma única noite de 292, quando a violação de Lyra Kazimir pelo velho Markalo Thornwall trouxe a lâmina de Haldor Kazimir e a purga de sete dias ordenada por Julian Grenfall, que exterminou a linha principal e confiscou seus feudos para os Corvell. Este ramo sobreviveu apenas porque um bisavô brigara pela herança décadas antes e migrara para as charnecas pobres de turfa da Costa Gelada; acolhidos sob a disciplina militar de Basgard, lutaram por 300 anos na lama e no gelo até reconquistarem respeito pelo casamento de Lady Lanna Thornwall com Lorde Lynuz Kargard."
   },
   {
     "id": "prerwall",
@@ -396,7 +414,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Ramo Nobre de Chancelaria e Fronteira (Idade equivalente à dos Kazimir, nascidos da mesma fragmentação feudal do século II). Originários de uma linhagem de juízes de cânion e escribas militares que guardavam a saída sul do planalto para os antigos reis de Borea. Durante a Grande Fome Negra, seguiram a mesma rota calculista dos Kazimir: enquanto Ruthless organizava o norte dos rios, os Prerwall trancaram a boca da Garganta Congelada em Véu da Garganta, acumulando todos os arquivos, tratados de terras e redes de corvos do continente. Quase disputaram a soberania do Norte com os Kazimir, mas optaram por ser o Quarto Grande Pilar — o chanceler indispensável que tem poder equivalente a Freddom e Kargard sem carregar o alvo da coroa na testa."
   },
   {
     "id": "solayne",
@@ -417,7 +436,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall",
-    "tier": "soberana"
+    "tier": "soberana",
+    "origin": "Matriarcado Milenar do Oásis (Tão antigo quanto os primeiros reis do continente; atravessou 600 anos sem jamais ser conquistado). Enquanto o Norte congelava e o Sul apodrecia em guerras civis e peste, a Casa Solayne já governava o Deserto Sulino a partir do Grande Oásis de Âmbar sob uma sucessão matriarcal ininterrupta. Sua rota histórica foi a da soberania pelo isolamento geográfico e pelo domínio biológico: usando cisternas subterrâneas, captação de orvalho e alquimia de venenos e fármacos raros, transformaram o deserto em uma fortaleza onde qualquer exército invasor morre de sede em quarenta e oito horas. Na Assembleia de Vermer (Ano 291, Bloco II), a velha Matriarca Vinda Solayne (72 anos) chegou em liteira dourada e não pediu proteção a Julian Grenfall — ofereceu uma aliança de sangue de igual para igual, casando sua filha Soraia com o futuro Rei Toren Grenfall (299). Em 300 anos tiveram apenas 5 gerações devido à longevidade medicinal de suas matriarcas; selaram o monopólio da água com a Casa Khai em 504 e hoje, sob a Matriarca Oraya (70), têm novamente uma filha sentada no trono de Vermer (a Rainha Dayse Solayne, esposa de Barttloven)."
   },
   {
     "id": "khai",
@@ -438,7 +458,8 @@
     },
     "headId": null,
     "vassalOf": "solayne",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "De Engenheiros de Poços a Co-Soberanos Técnicos do Deserto (Antiga casta de mestres hidráulicos que deu um golpe branco no Ano 504). Durante séculos, os Khai eram apenas uma casa menor de arquitetos subterrâneos e cavadores de aquedutos a serviço do Oásis de Âmbar. Sua rota de ascensão explosiva aconteceu na Crise das Cisternas (Ano 504, Bloco III): quando uma seca de uma década secou os poços externos e os clãs nômades se rebelaram contra o Oásis, os Khai fecharam as comportas subterrâneas secretas que só eles conheciam, matando a revolta pela sede em três dias. Em seguida, apresentaram a conta à Matriarca Solayne: receberam o título de Casa Maior Pilar e o monopólio técnico perpétuo de toda a água do deserto."
   },
   {
     "id": "skar",
@@ -459,7 +480,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall",
-    "tier": "soberana"
+    "tier": "soberana",
+    "origin": "Antiga Dinastia Real Destronada e Reinventada no Mar (A linhagem real mais antiga do Sul, anterior aos Grenfall em séculos). Na Era Antiga (Bloco I), os Skar eram os Reis absolutos de Meridion — senhores de três colheitas anuais, anéis de ouro e palácios luminosos. Sua queda começou no orgulho venenoso do Rei Kaelen Skar (que provocou o Tratado de Ferro em -23 e queimou 800 nortenhos em Cinzas Negras no Ano 0) e apodreceu em quatro gerações de incompetência e paranoia (Victarion, Eron e Daeron), até que Kaldor Grenfall partiu a testa do Rei Daeron com um machado de lenhador na Lama Vermelha (Ano 145) durante a Grande Peste. Mesmo após perderem a capital, o último pretendente, Pertus Skar, resistiu por dez anos em uma fortaleza costeira ao Cerco Silencioso de Julian Grenfall (268–278) antes de ser entregue pelos próprios guardas famintos por pão e exilado para a ilha vulcânica de Cabo da Cinza. Em vez de desaparecerem no exílio, os Skar usaram a frota que lhes restava para dominar o Golfo Oriental; em 291, Malen Skar tratou Julian de igual para igual, garantindo a soberania naval do Leste. Hoje, sob Malrik Skar (casado com a última Morvain), jamais esqueceram que o trono onde Barttloven Grenfall se senta já foi deles."
   },
   {
     "id": "skalmark",
@@ -480,7 +502,8 @@
     },
     "headId": null,
     "vassalOf": "grenfall",
-    "tier": "soberana"
+    "tier": "soberana",
+    "origin": "De Reis-Piratas Independentes a Soberanos das Marés pelo Blefe e pela Faca (Mais antigos no mar que o reino de Aerthel; nunca foram vassalos na Era Antiga). Durante toda a Era Antiga e o Século Vermelho, enquanto Norte e Sul se matavam, os Skalmark eram o terror livre do sudoeste — um consórcio de dinastias corsárias das Ilhas da Serpente que não obedecia a deuses nem a reis. Quando Julian Grenfall unificou o continente em 291 (Bloco II), os dois irmãos que lideravam a casa tomaram rotas opostas que salvaram a família: em terra, o irmão mais velho Cassian Skalmark foi encurralado pelo blefe diplomático de Vera Grenfall sobre uma rota terrestre alternativa; no mar, no convés ensanguentado do navio Espinho do Mar, o irmão mais novo Hakon Skalmark encarou Julian sob a ameaça de uma frota financiada para Skar e arrancou da Coroa o título de Lorde Protetor das Marés com autonomia interna total. Dois anos depois (293), Hakon assinou com Haldor Kazimir a Cláusula das Cinzas — uma ponte que sobreviveu a oito gerações de mortes violentas no mar, à Guerra das Águas Salgadas (388–394) e que hoje, sob Oryon Skalmark (45), alimenta o mercado negro de todo o continente."
   },
   {
     "id": "vashar",
@@ -501,7 +524,8 @@
     },
     "headId": null,
     "vassalOf": "solayne",
-    "tier": "maior"
+    "tier": "maior",
+    "origin": "Casta Guerreira Nômade Submetida pelo Sangue e pela Água (Antigos senhores da guerra das dunas, incorporados ao Oásis há quatro séculos). Antes de servirem ao Oásis de Âmbar, os Vashar eram o clã de saqueadores mais letal do deserto aberto. Foram derrotados por uma antiga Matriarca Solayne que envenenou seus poços de parada e depois ofereceu o antídoto e água limpa para suas crianças em troca de um juramento eterno de sangue. Desde então, converteram sua ferocidade nômade em disciplina estóica absoluta, tornando-se a espada implacável que guarda as fronteiras e caravanas de Solayne."
   },
   {
     "id": "vane",
@@ -522,7 +546,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Nobreza Menor de Espada e Forja (Antiga linhagem de cavaleiros do planalto, redefinida pelo trauma do Ano 292). Os Vane já eram senhores menores das forjas fluviais de Vau-Vermelho há quatro séculos, vivendo de armar cavaleiros locais. Sua história mudou para sempre na Tragédia do Canil (292): dois filhos da Casa Vane faziam parte da escolta que deixou Lyra Kazimir no castelo Thornwall na véspera de sua morte. Consumidos pela vergonha de não terem ficado para morrer por ela, juraram com sangue sobre o aço que a família inteira serviria perpetuamente como escudos vivos da casa de Ruthless, ganhando prestígio político e monopólio da cutelaria fina na corte."
   },
   {
     "id": "corvin",
@@ -543,7 +568,8 @@
     },
     "headId": null,
     "vassalOf": "prerwall",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Nobreza Arcaica dos Cânions (Mais antiga que Prerwall e Kazimir; senhores originais das cavernas da Garganta). Antes de Véu da Garganta existir como chancelaria, os Corvin já dominavam as torres estreitas e pontes de corda sobre os abismos da Garganta Congelada, vivendo de pedágios e do conhecimento de ervas venenosas de altitude. Quando a Casa Prerwall cresceu na boca do cânion, os Corvin evitaram a destruição selando um pacto de sub-vassalagem privilegiada e casamentos cruzados — chegando a dar uma mãe ao 3º Senhor Soberano do Norte (Corvin Kazimir), enquanto mantinham o domínio sombrio sobre o Passo Franco."
   },
   {
     "id": "zahhir",
@@ -564,7 +590,8 @@
     },
     "headId": null,
     "vassalOf": "solayne",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Cambistas de Fronteira e Mediadores de Caravanas (Origem mercantil mista entre o Deserto e as Terras Outonais). Nasceram de uma família de intérpretes e avaliadores de joias que operava nos acampamentos neutros onde as caravanas de Solayne trocavam especiarias pelo ouro da Casa Kühl. Cresceram na sombra do casamento real de Toren Grenfall e Soraia Solayne (299), tornando-se os corretores bancários que fazem a ponte financeira entre o Oásis e Solar Outonal."
   },
   {
     "id": "coolys",
@@ -585,7 +612,8 @@
     },
     "headId": null,
     "vassalOf": "kazimir",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Burguesia Ribeirinha Elevada por Lealdade na Fome (Mais jovem que todas as Grandes Casas do Norte; nascida junto com a ascensão Kazimir). Na Grande Fome Negra, os Coolys eram barqueiros, pesadores de sal e contrabandistas plebeus do rio central. Enquanto outros roubavam os depósitos de Ruthless, o patriarca Coolys perdeu três filhos defendendo a machadadas as barcaças de mediação dos Kazimir. Quando Haldor Kazimir tornou-se Soberano do Norte em 291, recompensou os Coolys com carta de nobreza e o domínio do Solar do Lacre. Desde então, usam uma ambição comercial feroz para comprar terras de nobres antigos falidos, mantendo uma lealdade canina ao trono de Ruthless."
   },
   {
     "id": "hausen",
@@ -606,7 +634,8 @@
     },
     "headId": null,
     "vassalOf": "kargard",
-    "tier": "menor"
+    "tier": "menor",
+    "origin": "Ascensão de Carpinteiros Plebeus a Almirantes de Sangue (Casa jovem, elevada à nobreza no Ano -1 da Era Antiga e consolidada em 293). Nasceram de uma família plebeia de mestres calafates e baleeiros das docas geladas de Basgard, com mãos deformadas pelo breu e pelo frio. Quando Kaelen Skar ameaçou invadir o Norte pelo mar, os Kargard deram aos Hausen o promontório de Quilha-Negra para construir dracares couraçados capazes de esmagar a banquisa. Três séculos depois, com a Cláusula das Cinzas criada por Haldor Kazimir (293), esses antigos filhos de carpinteiros transformaram-se na aristocracia naval de guerra que comanda toda a Armada Quebra-Gelo do Norte."
   },
   {
     "id": "talren",
@@ -627,7 +656,8 @@
       "primary": "#a87c5a"
     },
     "headId": null,
-    "vassalOf": "grenfall-grifo"
+    "vassalOf": "grenfall-grifo",
+    "origin": "Nobreza Mineradora Mais Antiga que a Realeza Grenfall (A casa que comprou e armou a ascensão de Julian Grenfall no Ano 256). Os Talren já eram senhores respeitados das colinas e minas de cobre do oeste séculos antes de Julian Grenfall nascer. Quando Julian tinha 21 anos e apenas um castelo semidestruído e 200 homens (Ano 256, Bloco I), foi o casamento político com Mira Talren — que trouxe 500 soldados bem equipados e uma mina de cobre ativa — que deu a base material para unificar os 17 clãs do Sul e fundar Aerthel. Por terem sido o berço financeiro e militar da unificação (e pais das princesas Helena e Mirella), os Talren tratam tanto Fortaleza do Grifo quanto Vermer não como servos, mas como sócios fundadores do reino."
   },
   {
     "id": "corvell",
@@ -648,7 +678,8 @@
       "primary": "#858d99"
     },
     "headId": null,
-    "vassalOf": "grenfall-grifo"
+    "vassalOf": "grenfall-grifo",
+    "origin": "Nobreza Nova Erguida sobre Terra Confiscada (Criada por decreto real no Ano 292 após a Tragédia do Canil). Antes de 292, os Corvell eram apenas cavaleiros sem feudo próprio e intendentes agrários que serviam no exército de Julian Grenfall. Quando Haldor Kazimir partiu Markalo Thornwall ao meio e Julian ordenou a purga sangrenta de sete dias que exterminou o ramo sulista dos Thornwall, a Coroa entregou as riquíssimas planícies confiscadas de Solar de Cinza aos Corvell. Cresceram arando uma terra adubada com o sangue de uma casa extinta — ferozmente leais aos Grenfall porque sabem que, se a ordem do Pacto cair, os descendentes Thornwall do Norte descerão para cobrar o solo de volta."
   },
   {
     "id": "vallen",
@@ -669,7 +700,8 @@
       "primary": "#9c8a5c"
     },
     "headId": null,
-    "vassalOf": "kuhl"
+    "vassalOf": "kuhl",
+    "origin": "Dinastia Mercantil da Antiga Cidade Neutra (Tão antiga quanto o Tratado de Ferro de -23; burguesia portuária transformada em Grande Casa). Os Vallen descendem dos antigos magistrados-mercadores que governavam a colônia neutra de Porto Cinza quando Eadric Freddom e Kaelen Skar se insultaram na mesa de carvalho no Ano -23 (Bloco I). Quando o Massacre de Cinzas Negras (Ano 0) e a construção das Muralhas destruíram o comércio de fronteira, os Vallen fugiram para o sul com seus livros de registro e seu ouro. Retornaram em 291 sob o manto financeiro de Aldous Kühl para reconstruir Porto Cinza na saída da Muralha de Skadi, tornando-se os senhores alfandegários que taxam cada grama de ferro ou trigo que cruza entre Norte e Sul."
   },
   {
     "id": "merrick",
@@ -690,7 +722,8 @@
       "primary": "#96a072"
     },
     "headId": null,
-    "vassalOf": "kuhl"
+    "vassalOf": "kuhl",
+    "origin": "Velha Nobreza Rural Comprada e Incorporada pelo Banco (Mais antiga na terra que os próprios Kühl, hoje seu braço agrário). Os Merrick eram os antigos senhores feudais dos vales férteis de Alameda antes da ascensão bancária de Solar Outonal. Durante a Grande Fome Negra, endividaram-se até o pescoço com os cofres Kühl para alimentar seus camponeses e salvar suas coudelarias. Em vez de tomar-lhes as terras à força, Aldous Kühl perdoou metade da dívida em troca de vassalagem eterna e casamentos cruzados — transformando Alameda na adega, no celeiro e na reserva de cavalaria das Terras Outonais."
   },
   {
     "id": "saiget",
@@ -711,7 +744,8 @@
       "primary": "#7d8594"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Mestres Ferreiros de Guilda Urbana (Origem plebeia artesanal, enobrecida na reconstrução de Vermer em 290). Começaram como ferreiros de ferraduras e reparadores de carroças das caravanas de Kaldor Grenfall. Quando Vermer se tornou a capital do reino unificado e o ferro de Furna Negra voltou a descer do Norte, os Saiget monopolizaram as forjas militares do Anel Externo, subindo à condição de Casa Menor armeira do Trono."
   },
   {
     "id": "fenwick",
@@ -732,7 +766,8 @@
       "primary": "#8a98a8"
     },
     "headId": null,
-    "vassalOf": "grenfall-grifo"
+    "vassalOf": "grenfall-grifo",
+    "origin": "Pescadores e Vigias de Falésia Enobrecidos no Cerco de 268 (Origem plebeia costeira elevada por Julian Grenfall). Eram contrabandistas e vigias de farol das falésias calcárias do sul que, durante o Cerco Silencioso de dez anos contra Pertus Skar (268–278), bloquearam as enseadas secretas por onde navios tentavam furar o bloqueio de Julian. Receberam a guarda costeira da Fortaleza do Grifo, embora nunca tenham perdido o velho hábito de fechar os olhos para barcos contrabandistas em troca de uma sacola de prata."
   },
   {
     "id": "rook",
@@ -753,7 +788,8 @@
       "primary": "#7b8c9e"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Almirantes e Pilotos de Bruma da Frota Real Antiga (Nobreza naval menor elevada a Casa Maior pelos Skar no exílio de 278). Os Rook eram os capitães da esquadra pessoal que escoltou Pertus Skar para o exílio nas ilhas vulcânicas em 278, quando todos os outros senhores da terra o abandonaram. Em recompensa por não terem arriado a bandeira do dragão de três cabeças, receberam o domínio da Ilha da Cinza e o posto de vanguarda naval do Golfo."
   },
   {
     "id": "kestrel",
@@ -774,7 +810,8 @@
       "primary": "#6b948e"
     },
     "headId": null,
-    "vassalOf": "skalmark"
+    "vassalOf": "skalmark",
+    "origin": "Pilotos de Recife e Cartógrafos Fugitivos (Origem plebeia de marinheiros desertores de várias frotas). Fundada por navegadores e carpinteiros navais que desertaram das frotas reais de Meridion durante a Peste de 130 e encontraram abrigo no labirinto de corais do Recife Negro. Sobreviveram porque são os únicos capazes de desenhar os mapas das correntes mortais das ilhas que protegem Skalmark de invasões."
   },
   {
     "id": "marlow",
@@ -795,7 +832,8 @@
       "primary": "#94a3b8"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Capitães de Milícia e Carcereiros de Portão (Origem plebeia marcial, nascida das guardas de armazém do Século Vermelho). Descendentes dos sargentos de pique que guardavam os portões da propriedade fortificada onde Bram e Cedric Grenfall resistiram à Grande Fome Negra (162–256). Pela fidelidade cega nos anos de cerco e fome, Julian entregou-lhes as chaves das pontes levadiças e dos Portões Octogonais de Vermer."
   },
   {
     "id": "oster",
@@ -816,7 +854,8 @@
       "primary": "#b89550"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Barqueiros e Moleiros do Rio da Coroa (Origem plebeia ribeirinha que enriqueceu especulando na fome). Eram donos de moinhos d'água e chatas de transporte fluvial que abasteciam as tropas de Julian Grenfall durante o Cerco Silencioso de dez anos contra Pertus Skar (268–278). Receberam o senhorio da Ribeira Real e cresceram controlando os silos que alimentam a barriga de Vermer."
   },
   {
     "id": "vaelmont",
@@ -837,7 +876,8 @@
       "primary": "#b87a84"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Nobreza de Toga Nascida de Escribas e Legistas (Elevada de juristas urbanos a Grande Casa por Julian e Vera Grenfall em 278–291). Na Era Antiga, os Vaelmont eram uma família de tabeliães, advogados de guilda e juízes municipais sem castelo nem cavalaria. Quando Julian Grenfall iniciou os Doze Anos de Reconstrução (278–290) ao lado de sua prima erudita Vera Grenfall, percebeu que espadas não mantêm um império de pé sem leis escritas. Elevou os Vaelmont ao Pátio dos Editos em Vermer, dando-lhes terras fiscais e o comando dos inquisidores régios. Hoje, esses descendentes de escribas têm poder de caneta para confiscar o feudo de lordes com quinhentos anos de genealogia."
   },
   {
     "id": "crayne",
@@ -858,7 +898,8 @@
       "primary": "#949ca8"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Pedreiros e Mestres-de-Obras Plebeus Enobrecidos na Unificação (Um dos 17 clãs de Julian Grenfall, anos 256–290). O bisavô do primeiro Lorde Crayne carregava pedra nas costas nas pedreiras do oeste de Meridion durante o Século Vermelho. Quando o jovem Julian Grenfall começou a reconstruir pontes, aquedutos e estradas em vez de fazer guerra de saque (256–268), os mestres construtores Crayne foram seus braços direitos. Foram eles que projetaram o Duplo Anel Octogonal e o Fosso Real de Vermer em 290, recebendo em troca o título de Casa Maior e o domínio perpétuo sobre as pedreiras e pontes de alvenaria da Capital."
   },
   {
     "id": "belvar",
@@ -879,7 +920,8 @@
       "primary": "#a38d9e"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Ramo Bastardo e Cortesão da Antiga Nobreza Sulista (Sangue nobre diluído que sobreviveu servindo nos bastidores do palácio). Nascidos de um ramo bastardo de antigos camareiros reais da era Skar que abriram as portas traseiras dos arquivos palacianos para Kaldor Grenfall em 145. Nunca tiveram vocação para o campo de batalha: cresceram dominando a criadagem, o cerimonial, as hospedarias nobres e o comércio de segredos de alcova do Anel Interno."
   },
   {
     "id": "dornel",
@@ -900,7 +942,8 @@
       "primary": "#c7a252"
     },
     "headId": null,
-    "vassalOf": "kuhl"
+    "vassalOf": "kuhl",
+    "origin": "Mineiros e Fundidores de Ouro Enobrecidos pela Casa da Moeda (Origem operária/técnica elevada por Aldous Kühl em 291). Descendentes dos mestres fundidores e químicos metalúrgicos que purificavam o ouro das Minas Rubras. Para garantir que ninguém jamais falsificasse ou desviasse o Padrão Kühl, foram transformados em Casa Menor hereditária presa por juramento de sangue às fornalhas da Casa da Moeda."
   },
   {
     "id": "brekker",
@@ -921,7 +964,8 @@
       "primary": "#94886a"
     },
     "headId": null,
-    "vassalOf": "kuhl"
+    "vassalOf": "kuhl",
+    "origin": "De Capangas de Cobrança e Caçadores de Recompensa a Executores Bancários (Origem plebeia brutal, institucionalizada após 394). No Século Vermelho, os Brekker eram uma companhia de cobradores de dívidas e mercenários de estrada que recuperavam cargas roubadas dos Kühl a golpes de maça. Após o Acordo dos Dois Mares (394), quando o Banco Kühl passou a hipotecar castelos reais e feudos inteiros, os Brekker receberam brasão e verniz jurídico como os Oficiais de Execução Patrimonial de Solar Outonal."
   },
   {
     "id": "draven",
@@ -942,7 +986,8 @@
       "primary": "#6e8774"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Barões Florestais e Destiladores de Piche (Raiz plebeia/rústica da Era Antiga que subiu fornecendo fogo e madeira aos reis Skar). Começaram como mestres lenhadores e queimadores de alcatrão nas matas densas da costa leste. Ganharam título de nobreza das mãos do Rei Kaelen Skar no Ano 0 por terem fornecido e transportado os barris de piche e enxofre usados no Massacre de Cinzas Negras. Quando os Skar ficaram restritos à ilha vulcânica estéril de Cabo da Cinza, os Draven tornaram-se indispensáveis: sem o carvalho e o breu da Mata do Golfo, nenhum navio Skar sai do estaleiro."
   },
   {
     "id": "velkor",
@@ -963,7 +1008,8 @@
       "primary": "#9e6b63"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Suboficiais de Fuzileiros e Artilheiros de Convés (Origem plebeia militar elevada nos estaleiros vulcânicos de Cabo da Cinza). Nascidos de sargentos de abordagem e fundidores de escória vulcânica que construíram as docas militares de basalto após o exílio Skar de 278. Subiram na hierarquia pelo mérito bruto em combate naval, comandando hoje as baterias de balistas e bombas de nafta da frota."
   },
   {
     "id": "varn",
@@ -984,7 +1030,8 @@
       "primary": "#5a828a"
     },
     "headId": null,
-    "vassalOf": "skalmark"
+    "vassalOf": "skalmark",
+    "origin": "Linhagem de Capitães de Abordagem de Hakon Skalmark (Origem corsária plebeia/marítima elevada pelo saque e pelo aço). O primeiro Varn era o contramestre cicatrizado do navio Espinho do Mar quando Hakon Skalmark apertou o antebraço de Julian Grenfall em 291. Cresceram tomando galeões mercantes no estreito, empilhando os cascos capturados para formar a fortaleza da Baía da Carcaça e liderando a linha de frente pirata na Guerra das Águas Salgadas (388–394)."
   },
   {
     "id": "halcyon",
@@ -1005,7 +1052,8 @@
       "primary": "#8fa89b"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Boticários e Físicos da Peste Elevados sobre Cinzas (Nascidos da plebe médica de Meridion no Ano 130). Antes da Grande Peste Bubônica de 130, os Halcyon eram apenas físicos urbanos, sangradores e herboristas sem título nobre(muitos deles demitidos décadas antes pela arrogância do Rei Victarion Skar). Quando a peste matou metade da capital e o Rei Daeron trancou os portões do palácio, os Halcyon ficaram nas ruas lamacentas ao lado do mercador Kaldor Grenfall, queimando pilhas de cadáveres com cal e piche e organizando hospitais em armazéns. Após o Golpe na Lama Vermelha (145), Kaldor entregou-lhes os Claustros da Cinza; cresceram nos três séculos seguintes como os senhores absolutos da medicina, da quarentena e da química clínica da Coroa."
   },
   {
     "id": "serrett",
@@ -1026,7 +1074,8 @@
       "primary": "#b5695b"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Descendentes dos Vinte da Lama Vermelha (Mercadores-soldados plebeus enobrecidos pelo sangue do Rei Daeron no Ano 145). O fundador da Casa Serrett era um dos vinte mercadores armados que cavalgaram na chuva com Kaldor Grenfall quando a carruagem do Rei Daeron Skar atolou na lama vermelha e abateram a Guarda Real a machadadas. Séculos depois, ironicamente, os netos daqueles mercadores rebeldes tornaram-se os cavaleiros mais obcecados por torneios, armaduras douradas e pompa marcial da Guarda Real de Vermer — vivendo hoje afogados em dívidas com o Banco Kühl para manter o luxo de suas coudelarias."
   },
   {
     "id": "voss",
@@ -1047,7 +1096,8 @@
       "primary": "#a68c59"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Clã Caravaneiro de Sangue Irmão aos Primeiros Grenfall (Mesma raiz mercantil plebeia/menor da família real antes do trono). Antes de Kaldor ser regente ou Julian ser rei, os Voss e os Grenfall amarravam mulas e dividiam fogueiras nas mesmas estradas poeirentas do oeste. Quando os Grenfall subiram ao trono em 290, os Voss preferiram ficar com o domínio das estradas, postos de muda e escoltas da Via Imperial, enriquecendo com cada roda que gira entre a Muralha e a Capital."
   },
   {
     "id": "alder",
@@ -1068,7 +1118,8 @@
       "primary": "#b89c4d"
     },
     "headId": null,
-    "vassalOf": "grenfall-grifo"
+    "vassalOf": "grenfall-grifo",
+    "origin": "Velha Aristocracia Latifundiária de Meridion (Mais antiga que os Grenfall; um dos 17 clãs de 256–268). Senhores hereditários da Várzea Dourada desde a época em que Kaelen Skar se gabava das três colheitas anuais do Sul (Bloco I). Sobreviveram ao Século Vermelho fortificando seus moinhos e silos com mercenários e dobraram o joelho a Julian Grenfall quando ele garantiu estradas seguras para escoar o trigo. Representam a velha nobreza agrária conservadora do Sul — a mesma casta orgulhosa que no Bloco II desprezava os nortenhos como 'selvagens' e pressionou Julian pelo casamento desastroso de Lyra Kazimir."
   },
   {
     "id": "brask",
@@ -1089,7 +1140,8 @@
       "primary": "#b5724a"
     },
     "headId": null,
-    "vassalOf": "talren"
+    "vassalOf": "talren",
+    "origin": "Mestres Fundidores Plebeus Elevados pela Casa Talren (Jovem casa sub-vassala nascida nas fornalhas de cobre em 256). Descendentes dos mestres de fornalha plebeus que fundiram as armas dos 500 homens levados por Mira Talren ao casamento com Julian Grenfall. Foram enobrecidos pelos próprios Talren como sub-vassalos para administrar os altos-fornos e comboios de bronze do oeste."
   },
   {
     "id": "goldwyn",
@@ -1110,7 +1162,8 @@
       "primary": "#c49a52"
     },
     "headId": null,
-    "vassalOf": "kuhl"
+    "vassalOf": "kuhl",
+    "origin": "Armadores Marítimos Plebeus Transformados em Magnatas Navais (Ascensão mercantil pós-Pacto, auge no século IV). Começaram como donos de três cocas pesqueiras na Baía Rubra que, logo após a abertura do Grande Pacto (291), investiram tudo em galeões de carga de grande calado financiados pelo Banco Kühl. Em setenta anos monopolizaram o transporte costeiro ocidental e criaram as primeiras apólices de seguro marítimo. Seu poder tornou-se tão grande que a abordagem de seus navios por piratas Skalmark em 388 foi o estopim da Guerra das Águas Salgadas (Bloco III)."
   },
   {
     "id": "stroud",
@@ -1131,7 +1184,8 @@
       "primary": "#7d8f99"
     },
     "headId": null,
-    "vassalOf": "vallen"
+    "vassalOf": "vallen",
+    "origin": "Pesadores de Doca e Fiscais de Balança de Porto Cinza (Origem plebeia portuária, sub-vassalos da Casa Vallen). Família de estivadores e mestres de trapiche que tomou o controle físico dos guindastes e balanças fluviais de Porto Cinza na reconstrução de 291. Cresceram manipulando tarifas de peso e cobranças duplas sobre o minério nortenho."
   },
   {
     "id": "lindel",
@@ -1152,7 +1206,8 @@
       "primary": "#b86b43"
     },
     "headId": null,
-    "vassalOf": "merrick"
+    "vassalOf": "merrick",
+    "origin": "Pomicultores e Estalajadeiros Enobrecidos nos Vales de Alameda (Origem camponesa próspera, sub-vassalos da Casa Merrick). Antigos produtores rurais que desenvolveram a fermentação do famoso hidromel de maçã rubra das Terras Outonais. Enriqueceram abastecendo tavernas de todo o continente e foram elevados a Casa Menor pelos Merrick quando o Banco Kühl percebeu que seus carregadores de barris eram os melhores ouvidos para coletar boatos econômicos nas estradas."
   },
   {
     "id": "cael",
@@ -1173,7 +1228,8 @@
       "primary": "#8c6266"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Antigos Castelões Reais da Dinastia Skar (Velha nobreza militar de Meridion, leal aos Skar mesmo na derrota e na fome). Os Cael eram os guardiões hereditários da Fortaleza da Ressaca — a cidadela costeira para onde o Rei Daeron Skar tentava fugir quando foi morto na Lama Vermelha (145) e onde Pertus Skar sustentou o último estandarte real do Sul durante dez anos de cerco contra Julian Grenfall (268–278). Mesmo quando os guardas famintos abriram os portões por pão em 278, a família Cael recusou os subornos de Julian e preferiu jurar vassalagem ao ramo Skar exilado em Cabo da Cinza, mantendo-se até hoje como o bastião monarquista mais rancoroso contra a Casa Grenfall."
   },
   {
     "id": "solen",
@@ -1194,7 +1250,8 @@
       "primary": "#c27d4e"
     },
     "headId": null,
-    "vassalOf": "rook"
+    "vassalOf": "rook",
+    "origin": "Vigias Costeiros e Guardadores de Fogo (Origem plebeia de pescadores de penhasco, sub-vassalos da Casa Rook). Família pobre que vivia nos promontórios gelados onde o Golfo Oriental encontra o Mar de Gelo, mantendo fogueiras acesas para guiar navios na cerração. Receberam título menor dos Rook para operar a cadeia de faróis do norte — posição mal paga que hoje os torna vulneráveis ao ouro silencioso que apaga suas luzes nas noites em que passam os comboios da Cláusula das Cinzas."
   },
   {
     "id": "marrow",
@@ -1215,7 +1272,8 @@
       "primary": "#7d6880"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Intendentes, Boticários e Escribas da Extinta Casa Morvain (Origem servil/erudita que herdou as sobras de seus mestres mortos). Durante trezentos anos os Marrow foram os médicos particulares, embalsamadores e guardiões de biblioteca dos senhores Morvain, assistindo de dentro à degeneração e morte de cada herdeiro da casa. Quando as terras de Morvain viraram ruínas e Lady Rhias casou-se com Malrik Skar, os Marrow levaram os baús de grimórios, árvores genealógicas e receitas de venenos para o Solar da Bruma, jurando serviço a Cabo da Cinza como os guardiões vivos da memória Morvain."
   },
   {
     "id": "drek",
@@ -1236,7 +1294,8 @@
       "primary": "#68917d"
     },
     "headId": null,
-    "vassalOf": "skalmark"
+    "vassalOf": "skalmark",
+    "origin": "Ramo Mercantil de Contrabandistas de Cassian Skalmark (Origem mista de bastardos nobres e mercadores de mercado negro, consolidada em 291). Enquanto os Varn seguiram a rota da faca de Hakon no mar, os Drek herdaram a rede de entrepostos continentais e falsificação de selos criada por Cassian Skalmark ('O Negociador em Terra') na península sudoeste. Subiram ao posto de Casa Maior do arquipélago porque são eles que transformam carga roubada em mercadoria 'legal' nas estradas do Sul."
   },
   {
     "id": "silt",
@@ -1257,7 +1316,8 @@
       "primary": "#527d75"
     },
     "headId": null,
-    "vassalOf": "skalmark"
+    "vassalOf": "skalmark",
+    "origin": "Clã Nativo dos Manguezais e Salinas (Os habitantes originais mais antigos das Ilhas da Serpente, anteriores aos próprios Skalmark). Povo anfíbio que já vivia nas palafitas e pântanos salobras da ilha central antes dos primeiros dracares Skalmark chegarem. Nunca foram vencidos dentro do mangue; selaram aliança com os Skalmark fornecendo o sal marinho de evaporação (hoje enviado para Basgard na Cláusula das Cinzas) e afogando nas raízes qualquer invasor que tente desembarcar nas ilhas."
   },
   {
     "id": "avernus",
@@ -1278,7 +1338,8 @@
       "primary": "#d9534f"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Linhagem de Magistrados Militares da Era Antiga (Mais antiga em nobreza de espada que a ascensão real dos Grenfall). Nascidos de uma severa família de juízes de campo e comandantes de fronteira do antigo reino de Meridion que se recusaram a participar da corrupção dos últimos reis Skar. Durante o Século Vermelho, mantiveram a lei a ferro nas colinas do norte sem jamais saquear uma vila camponesa. Quando Julian Grenfall fundou Aerthel em 290, entregou aos Avernus a missão que nenhum outro lorde queria: governar o Vale das Pedras Cinzas — o desfiladeiro onde 800 nortenhos arderam no piche no Ano 0 e cujo subsolo de carvão mineral queima em brasa lenta até hoje. Cresceram explorando o antracito e o ferro da fronteira com paciência imóvel e justiça incorruptível."
   },
   {
     "id": "aquila",
@@ -1299,7 +1360,8 @@
       "primary": "#d4af37"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Ascensão Meteórica de Colonizadores e Armeiros (Casa mais jovem que as velhas dinastias de Meridion; cresceu nos últimos dois séculos). Fundada por um consórcio de capitães de milícia livre, engenheiros de fundição e desbravadores de fronteira que receberam terras devastadas a oeste de Vermer após a Grande Fome Negra. Sem o peso de tradições arcaicas, adotaram a produção em série de armas, carroças padronizadas e agricultura extensiva. Cresceram financiando e armando as campanhas de pacificação da Coroa até se tornarem o maior colosso agroindustrial e intervencionista das Terras da Coroa."
   },
   {
     "id": "aurelia",
@@ -1320,7 +1382,8 @@
       "primary": "#9b5de5"
     },
     "headId": null,
-    "vassalOf": "grenfall"
+    "vassalOf": "grenfall",
+    "origin": "Velha Aristocracia Patrícia Pré-Grenfall (Mais antiga que a Coroa atual; sobreviventes da alta corte dourada da antiga Meridion). Diferente dos rudes companheiros de caravana de Kaldor Grenfall, os Aurelia já usavam seda, mármore e anéis de sinete na corte dos antigos reis Skar. Quando Daeron Skar caiu na Lama Vermelha e veio o Século Vermelho, os Aurelia salvaram seus palácios e obras de arte comprando proteção mercenária e aliando-se ao alto clero da Fé das Sete Lâmpadas. Dobraram o joelho a Julian Grenfall oferecendo legitimidade cultural, catedrais e etiqueta à nova capital de Vermer — mantendo por trás dos afrescos sagrados as mesmas adagas e venenos políticos da velha Meridion."
   },
   {
     "id": "crux",
@@ -1341,7 +1404,8 @@
       "primary": "#10b981"
     },
     "headId": null,
-    "vassalOf": "grenfall-grifo"
+    "vassalOf": "grenfall-grifo",
+    "origin": "Grande Dinastia Austral Pré-Pacto (Mais antiga em domínio territorial no extremo sudoeste que a soberania do Grifo). Nascidos da fusão entre antigos navegadores guiados pela constelação da Cruz Austral e os chefes guerreiros dos planaltos de terra roxa e matas de pau-rubro na fronteira meridional. Durante o caos do Século Vermelho (145–280), enquanto Meridion se autodestruía em fome e peste, o domínio de Vera-Cruz prosperou isolado pela geografia, acolhendo exilados, descobrindo veios colossais de ouro e esmeraldas nas serras e repelindo à força as frotas piratas de Skalmark. Uniram-se a Julian Grenfall na consolidação do Sul não por conquista, mas por tratado de respeito mútuo — mantendo até hoje o porte de um império solar autossuficiente sob as Cinco Estrelas."
   },
   {
     "id": "lysmont",
@@ -1362,7 +1426,8 @@
       "primary": "#3b82f6"
     },
     "headId": null,
-    "vassalOf": "grenfall-grifo"
+    "vassalOf": "grenfall-grifo",
+    "origin": "Linhagem Cavalheiresca da Antiga Corte Sulista (Mais antiga que a ascensão Grenfall; flor da velha nobreza de torneio de Meridion). Descendentes dos campeões de lança e senhores dos vales vinícolas que cercavam a antiga corte real na Era Antiga. Atravessaram a queda dos Skar e a Fome Negra trancados em seu castelo branco de Monte-Lírio, preservando coudelarias de puro-sangue, armaduras articuladas e códigos de etiqueta cavalheiresca, olhando até hoje para casas de origem mercantil com superioridade silenciosa."
   },
   {
     "id": "volya",
@@ -1383,7 +1448,8 @@
       "primary": "#eab308"
     },
     "headId": null,
-    "vassalOf": "alder"
+    "vassalOf": "alder",
+    "origin": "Irmandade de Cavaleiros Livres e Camponeses Fugitivos (Nascida no caos do Século Vermelho, anos 160–260). Quando o Sul mergulhou em guerra civil, fome e banditismo após a morte de Kaldor Grenfall, milhares de camponeses rebeldes, soldados desertores e ginetes sem senhor fugiram para as estepes abertas de terra preta a leste e formaram acampamentos fortificados com carroças (Sich). Nenhum lorde conseguiu submetê-los à força; Julian Grenfall e a Casa Alder reconheceram seus hetmans (capitães eleitos) como a Casa Menor Volya em troca de guardarem a fronteira oriental dos celeiros do Sul com seus sabres."
   },
   {
     "id": "eisenhart",
@@ -1404,7 +1470,8 @@
       "primary": "#71717a"
     },
     "headId": null,
-    "vassalOf": "kuhl"
+    "vassalOf": "kuhl",
+    "origin": "Engenheiros Militares e Mestres de Arsenal Elevados pelo Ouro Kühl (Casa de origem técnica e marcial consolidada nos séculos II e III). Os Kühl sabiam contar moedas, mas precisavam de alguém que soubesse organizar regimentos, construir máquinas de cerco precisas e blindar comboios de ouro. A Casa Eisenhart nasceu de uma dinastia de mestres armeiros, relojoeiros e oficiais de infantaria dos vales carboníferos a leste de Solar Outonal. Cresceram aplicando precisão mecânica e disciplina industrial à guerra, tornando-se o braço armado e tecnológico de primeira grandeza que impede qualquer rei devedor de simplesmente marchar contra o Banco Kühl."
   },
   {
     "id": "albion",
@@ -1425,7 +1492,8 @@
       "primary": "#ef4444"
     },
     "headId": null,
-    "vassalOf": "goldwyn"
+    "vassalOf": "goldwyn",
+    "origin": "Clã Insular de Corsários Licenciados e Navegadores (Antiga nobreza marítima da Ilha de Alba-Rochedo, associada a Goldwyn e Kühl). Habitantes orgulhosos de uma ilha de penhascos brancos de giz a oeste de Solar Outonal que nunca pôde ser tomada por exércitos terrestres. Uniram-se ao Bloco Financeiro como a escolta naval armada dos galeões Goldwyn, enriquecendo com Cartas de Corso que lhes permitem saquear 'legalmente' qualquer navio inadimplente com o Banco Kühl."
   },
   {
     "id": "moroz",
@@ -1446,7 +1514,8 @@
       "primary": "#60a5fa"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Príncipes Guerreiros das Estepes Geladas Orientais (Tão antigos quanto os reis Freddom e Skar; colosso territorial autônomo ligado a Cabo da Cinza). Nascidos de antigos grão-príncipes que unificaram as tribos das tundras, florestas de bétulas e rios congelados do extremo nordeste continental, logo abaixo de onde a Muralha de Skadi encontra o mar. Nunca foram conquistados por Meridion: na Era Antiga, os reis Skar preferiram comprar a aliança de Volgrad com ouro e títulos imperiais para que os exércitos gigantescos de Moroz guardassem a fronteira terrestre contra o Norte e contra hordas do leste. Quando a dinastia Skar perdeu o trono de Meridion e se mudou para Cabo da Cinza (278–291), os Moroz mantiveram o antigo juramento naval-militar por conveniência, mas governam Volgrad como um império de inverno próprio dentro do bloco oriental."
   },
   {
     "id": "bosphor",
@@ -1467,7 +1536,8 @@
       "primary": "#dc2626"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Senhores Mercantis-Militares do Estreito Oriental (Linhagem antiga de cobradores de estreito que sobreviveu trocando de coroa). Desde antes da Guerra do Degelo, os Bosphor controlavam as duas pontas rochosas que fecham a boca da grande baía oriental com sua corrente gigante de ferro. Durante o Século Vermelho, enriqueceram cobrando pedágio tanto de corsários quanto de refugiados; no Grande Pacto (291), alinharam suas bombardas de bronze à frota de Malen Skar em troca de manterem metade das taxas alfandegárias do Golfo Oriental."
   },
   {
     "id": "baekho",
@@ -1488,7 +1558,8 @@
       "primary": "#cbd5e1"
     },
     "headId": null,
-    "vassalOf": "skar"
+    "vassalOf": "skar",
+    "origin": "Engenheiros de Arsenal e Capitães Costeiros (Linhagem técnica e marcial que ascendeu na Guerra das Águas Salgadas, anos 388–394). Originalmente uma família menor de ferreiros navais da Península da Bruma Branca. Quando os piratas Skalmark incendiaram galeões tradicionais na Guerra das Águas Salgadas (Bloco III), os mestres Baekho salvaram a campanha construindo os primeiros Navios-Tartaruga revestidos de chapas de ferro e espigões antiabordagem, garantindo seu título de nobreza naval sob Cabo da Cinza."
   },
   {
     "id": "parsa",
@@ -1509,7 +1580,8 @@
       "primary": "#f59e0b"
     },
     "headId": null,
-    "vassalOf": "solayne"
+    "vassalOf": "solayne",
+    "origin": "Dinastia Imperial Pré-Desértica (Mais antiga que a própria Casa Solayne; remanescentes de um antigo império solar do platô oriental). Há mil anos, antes das dunas engolirem as planícies do extremo sul, os ancestrais da Casa Parsa governavam um império de cidades de pedra, observatórios astronômicos e canais subterrâneos (qanats) no platô de Takht-Sol. Quando a desertificação avançou, recuaram para sua cidadela de montanha e preservaram sua guarda de elite mascarada ('Os Imortais da Areia') e sua cultura milenar. Aliaram-se às Matriarcas Solayne por tratado de confederação, mantendo um orgulho imperial que olha para Vermer como uma vila construída ontem."
   },
   {
     "id": "qaydar",
@@ -1530,7 +1602,8 @@
       "primary": "#15803d"
     },
     "headId": null,
-    "vassalOf": "solayne"
+    "vassalOf": "solayne",
+    "origin": "Patriarcas Tribais Mais Antigos das Dunas Fundas (Mais antigos em tradição nômade que a corte urbana do Oásis de Âmbar). Nunca abandonaram a lei ancestral do deserto profundo. Enquanto Solayne se urbanizava no Oásis de Âmbar, os Qaydar mantiveram o domínio sobre os santuários de pedra negra e os poços naturais de nafta e betume líquido no coração das dunas, trocando cavalos puro-sangue e fogo líquido por respeito e autonomia intocada."
   },
   {
     "id": "zaydan",
@@ -1551,7 +1624,8 @@
       "primary": "#fbbf24"
     },
     "headId": null,
-    "vassalOf": "solayne"
+    "vassalOf": "solayne",
+    "origin": "Pescadores de Pérolas Plebeus Transformados em Príncipes Mercantis (Ascensão fulminante no século IV, pós-Guerra das Águas Salgadas). Há duzentos anos eram apenas mergulhadores de ostras em uma costa árida e esquecida do deserto. Quando a Guerra das Águas Salgadas (388–394) bloqueou os portos tradicionais entre Skar e Skalmark, os Zaydan abriram sua enseada como porto franco neutro para todos os lados. O ouro jorrou como água: ergueram torres brancas captadoras de vento, palácios de comércio e bancos de pérolas, tornando-se a vitrine mais rica da costa sul."
   },
   {
     "id": "davidon",
@@ -1572,7 +1646,8 @@
       "primary": "#38bdf8"
     },
     "headId": null,
-    "vassalOf": "vashar"
+    "vassalOf": "vashar",
+    "origin": "Clã de Refugiados de Fronteira Forjados em Estado de Sítio (Antiga comunidade das escarpas áridas que sobreviveu a dez cercos no Século Vermelho). Nascidos de famílias de canteiros, pastores e soldados que se fortificaram no platô vertical de Har-Ziv durante as guerras de extermínio do Século Vermelho (145–280). Cercados por bandos maiores e sem água fácil, escavaram cisternas ocultas na rocha viva, armaram cada homem e mulher da família e desenvolveram uma rede de batedores preventivos tão letal que os próprios Vashar os reconheceram como guardiões da escarpa norte do Deserto."
   },
   {
     "id": "longar",
@@ -1593,7 +1668,8 @@
       "primary": "#e11d48"
     },
     "headId": null,
-    "vassalOf": "zhouti"
+    "vassalOf": "zhouti",
+    "origin": "Aristocracia Mandarim-Militar do Império Oriental (Ramo governamental nomeado pelo Trono de Jade para administrar a presença em Aerthel). Nascidos da alta casta de generais-letrados aprovados nos exames imperiais de Zhouti. Há duzentos anos receberam a concessão da cidade-feitoria murada de Long-Men na costa oriental de Aerthel: governam com burocracia milenar, baterias de foguetes de pólvora e frotas de juncos gigantes, registrando cada fraqueza das 75 casas ocidentais para os arquivos do Império."
   },
   {
     "id": "asahi",
@@ -1614,6 +1690,7 @@
       "primary": "#f43f5e"
     },
     "headId": null,
-    "vassalOf": null
+    "vassalOf": null,
+    "origin": "Nobreza Guerreira Estrangeira Exilada e Sem Terra (Antiga casta aristocrática de ilhas orientais distantes, chegada a Aerthel há um século). Em sua terra natal além do mar oriental, os Asahi eram príncipes-generais de alta linhagem. Após serem derrotados em uma guerra dinástica no oriente há cem anos, recusaram-se a dobrar o joelho ao usurpador: embarcaram seus últimos trezentos guerreiros, suas forjas de aço dobrado e seus pergaminhos de honra e atravessaram o oceano até a costa leste de Aerthel. Aqui vivem sem feudo e sem rei (Nível 5), mantendo sua disciplina incorruptível em acampamentos costeiros e alugando suas lâminas curvas sob contratos sagrados que jamais foram quebrados."
   }
 ]
