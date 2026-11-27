@@ -1,0 +1,12 @@
+# 🧱 26. Casa Freddom
+
+**Os Caçadores da Pedra Negra**
+
+- **Lema (Motto):** *"Nenhum Passo Sem Rastro"*
+- **Casta, Vassalagem & Sede:** Casa Maior Vassala (Nível 3 na Pirâmide) · **Suserano:** Kazimir · **Sede:** Muralha Tripla *(Norte)*
+- **Origem, Sangue & Rota Histórica (Ascensão/Queda):** Linhagem Real Decaída em Guardiões (A dinastia real mais antiga do Norte, anterior à ascensão dos Kazimir em quatro séculos). Nascidos de chefes de guerra da Era do Gelo que unificaram Borea a machado, os Freddom governaram como reis absolutos até que o orgulho de Eadric Freddom colidiu com Kaelen Skar no Ano 0 (o Massacre de Cinzas Negras e a flecha na narina no Lago Prateado). Sua rota foi a de uma queda lenta por obsessão: três gerações de reis (Theron, o Louco, Aldric — que se enforcou — e Elys I) sangraram o próprio reino por 90 anos e 60.000 mortos para erguer Skadi, Frigg e Freya, transformando sua guarda real em caçadores de desertores com os cães Penitentes. Falidos e assombrados pela fome que criaram, abdicaram da coroa no Ano 290 para sobreviverem como os Guardiões perpétuos e neutros das Três Muralhas.
+- **Valores Ancestrais:** **Alta Disciplina de Caça, Rastreamento e Vigília Espartana.** Antigos Reis de Borea que ergueram Skadi, Frigg e Freya em 90 anos (60.000 mortos) e criaram os cães Penitentes. Após Elys II entregar a coroa em 290, converteram sua herança na ordem de caçadores, rastreadores e sentinelas mais disciplinada do mundo.
+- **Território & Economia:** **Muralha Tripla.** As 300 milhas da Muralha Tripla (Freya, Frigg e Skadi), vinte aldeias de guarnição nos fossos internos e a Zona Morta. Vivem das portagens do Pedágio da Via Imperial e do dízimo de vigília pago pelo Norte.
+- **Doutrina Militar:** **Caça Humana, Emboscada de Corredor e Arquearia Vertical.** Atraem invasores para os fossos entre as muralhas, fecham as grades e os abatem metodicamente com bestas de guincho, armadilhas ocultas e matilhas de rastreamento.
+- **A "Sombra" da Casa:** **A Melancolia da Pedra e o Sangue de Theron.** Oito gerações em 300 anos por mortes precoces; na Zona Morta entre Frigg e Skadi, ainda caçam fugitivos com a mesma calma fria com que abatem um cervo ferido.
+- **Descrição do Brasão:** Três barras horizontais de ferro branco riscadas de vermelho-sangue, sobrepostas pela mandíbula aberta de um lobo-mastim em bronze negro sobre campo cinza-ardósia. *(Cor Primária: `#8c97a6` sobre Fundo Negro Absoluto `#000000`)*.

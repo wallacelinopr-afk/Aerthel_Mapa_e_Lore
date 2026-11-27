@@ -1,0 +1,12 @@
+# 🔥 6. Casa Avernus
+
+**Os Juízes da Brasa Lenta**
+
+- **Lema (Motto):** *"A Brasa Espera sob a Pedra"*
+- **Casta, Vassalagem & Sede:** Casa Maior Vassala (Nível 3 na Pirâmide) · **Suserano:** Grenfall de Vermer · **Sede:** Forte do Averno (Vale das Pedras Cinzas) *(Terras da Coroa)*
+- **Origem, Sangue & Rota Histórica (Ascensão/Queda):** Linhagem de Magistrados Militares da Era Antiga (Mais antiga em nobreza de espada que a ascensão real dos Grenfall). Nascidos de uma severa família de juízes de campo e comandantes de fronteira do antigo reino de Meridion que se recusaram a participar da corrupção dos últimos reis Skar. Durante o Século Vermelho, mantiveram a lei a ferro nas colinas do norte sem jamais saquear uma vila camponesa. Quando Julian Grenfall fundou Aerthel em 290, entregou aos Avernus a missão que nenhum outro lorde queria: governar o Vale das Pedras Cinzas — o desfiladeiro onde 800 nortenhos arderam no piche no Ano 0 e cujo subsolo de carvão mineral queima em brasa lenta até hoje. Cresceram explorando o antracito e o ferro da fronteira com paciência imóvel e justiça incorruptível.
+- **Valores Ancestrais:** **Justiça Incorruptível, Paciência Imóvel e Vigília Fúnebre.** Guardiões do Vale das Pedras Cinzas (palco do Massacre do Ano 0, onde o incêndio de piche inflamou os veios subterrâneos de carvão mineral que queimam em brasa lenta há 600 anos). Poderosos e retos, jamais cometem uma injustiça, mas não têm calor humano nem perdão.
+- **Território & Economia:** **Forte do Averno (Vale das Pedras Cinzas).** Forte do Averno e o Vale das Pedras Cinzas: um desfiladeiro onde a neve derrete ao tocar o chão morno formando uma névoa baixa e silenciosa onde nenhum pássaro pousa, cercado por doze vilas mineradoras de antracito, ferro e coque.
+- **Doutrina Militar:** **Defesa de Desfiladeiro, Infantaria Couraçada Pesada e Guerra de Exaustão.** Nunca iniciam agressões; fecham os gargalos na névoa morna com linhas imóveis de piqueiros e besteiros em aço fosco, esperando o inimigo cansar antes de esmagá-lo.
+- **A "Sombra" da Casa:** **A Grota Baixa e a Paz Desesperadora.** Quem cruza seu vale sente a linha exata entre a agonia dos 800 mortos e a paz da partida; criminosos condenados são deixados nas grotas fundas onde o gás inodoro do carvão subterrâneo os faz adormecer sem dor para sempre.
+- **Descrição do Brasão:** Uma fenda estreita de carvão em brasa rubra cortando diagonalmente um escudo de pedra cinza-escura, sob uma faixa superior de névoa branca. *(Cor Primária: `#d9534f` sobre Fundo Negro Absoluto `#000000`)*.

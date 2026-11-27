@@ -1,0 +1,12 @@
+# 🛡️ 32. Casa Hart
+
+**O Veado Sangrento**
+
+- **Lema (Motto):** *"A glória e o Sangue"*
+- **Casta, Vassalagem & Sede:** Casa Deserdada / Sem Terra (Nível 5 na Pirâmide) · **Suserano:** Grenfall do Grifo · **Sede:** Ponta da Lágrima / Baía da Coroa *(Terras da Coroa)*
+- **Origem, Sangue & Rota Histórica (Ascensão/Queda):** Grande Casa Antiga Arruinada e Sem Terra (Mais antiga que quase todos os vassalos do Sul, hoje reduzida à espada alugada). Na época da fundação de Aerthel, os Hart eram senhores poderosos dos penhascos costeiros da Ponta da Lágrima. Há três gerações, durante uma crise de dívidas e uma disputa armada de sucessão naval no Golfo, o patriarca Hart apostou contra o Banco Kühl e a Coroa, sendo acusado de quebra da paz real. Teve o castelo demolido, as terras confiscadas e o tesouro tomado por cobradores Brekker. Hoje são reis sem chão: criam seus filhos em solares emprestados com um orgulho trágico e letal, transformando cada jovem Hart em um duelista de aluguel obcecado por comprar ou retomar pela força o feudo roubado.
+- **Valores Ancestrais:** **Resiliência, Orgulho Trágico e Restauração.** Os Hart veem-se como vítimas de uma injustiça histórica. O seu valor máximo não é mais a terra (que perderam), mas a dignidade do Nome. Eles educam os seus filhos não como plebeus, mas como "reis no exílio", incutindo neles a obrigação sagrada de recuperar o que foi roubado.
+- **Território & Economia:** **Ponta da Lágrima / Baía da Coroa.** Sem Terra (Ex-Vassalos Grenfall). Perderam os seus feudos e castelos. Atualmente, vivem como "hóspedes" em cortes menores ou em solares arruinados, sobrevivendo da venda de relíquias de família e favores. A sua economia é a da sobrevivência digna.
+- **Doutrina Militar:** **A Espada Solitária.** Como Casa, não possuem mais exércitos ou bandeiras de guerra. A sua doutrina transformou-se na excelência individual: cada Hart deve valer por dez homens, pois não têm ninguém para os defender. São duelistas letais por necessidade, não por ofício.
+- **A "Sombra" da Casa:** **A Desonra.** Carregam o estigma do "Pai Traidor/Falido". Onde quer que um Hart vá, é olhado com suspeita ou pena, o que alimenta o seu ódio frio contra a corte que os abandonou.
+- **Descrição do Brasão:** A cabeça de um veado (cervo) nobre, atravessada violentamente no pescoço por uma espada, com uma única gota de sangue (rubi) a cair. Simboliza o golpe fatal que a casa sofreu, mas também a sua recusa em fechar os olhos. *(Cor Primária: `#7a7f8c` sobre Fundo Negro Absoluto `#000000`)*.

@@ -1,0 +1,12 @@
+# ⚒️ 14. Casa Cortry
+
+**Os Barões da Escória**
+
+- **Lema (Motto):** *"O Fogo Não Conhece Reis"*
+- **Casta, Vassalagem & Sede:** Casa Maior Vassala (Nível 3 na Pirâmide) · **Suserano:** Kazimir · **Sede:** Furna Negra *(Norte)*
+- **Origem, Sangue & Rota Histórica (Ascensão/Queda):** Barões Mineiros de Raiz Plebeia Endurecida (Mais antigos em riqueza que os Kazimir, nascidos de mestres-fundidores da Era Antiga). Há seiscentos anos, o fundador da Casa Cortry era um capataz de mina plebeu que liderou uma revolta sangrenta nas galerias da Serra da Escória, degolou o antigo lorde cobrador de impostos com uma picareta em brasa e tomou Furna Negra. Os reis Freddom tentaram submetê-los, mas precisavam tanto do aço negro para armar tropas e cortar pedras das Muralhas que tiveram de reconhecer os Cortry como Grandes Barões. Cresceram vendendo ferro a preço de sangue e atingiram o ápice político no Bloco III ao casarem uma filha com o próprio Haldor Kazimir, tornando-se os avós maternos da dinastia soberana de Ruthless.
+- **Valores Ancestrais:** **Soberba Feudal, Sangue Materno Soberano e Domínio da Escória.** Muito mais que ferreiros, são os barões montanheses mais orgulhosos do oeste boreal — desafiaram até Theron, o Louco, deram a espada de aço negro a Haldor Kazimir e casaram uma filha com Haldor, pondo seu sangue na árvore soberana de Ruthless.
+- **Território & Economia:** **Furna Negra.** Furna Negra e o senhorio da Serra da Escória: dezenas de vilas muradas, pastagens altas, florestas de carvão e a falha vulcânica-glacial de onde sai o aço negro boreal, cobrando tributos fluviais e marítimos (via Angra do Chumbo).
+- **Doutrina Militar:** **Barões Couraçados, Besteiros de Cerco e Sapadores de Rocha.** Nobreza menor pesadamente blindada, acostumada a combates em encostas estreitas, apoiada por engenheiros que solapam muralhas inimigas por baixo.
+- **A "Sombra" da Casa:** **A Arrogância do Sangue Materno e os Poços de Dívida.** Cobram privilégios constantes em Ruthless por serem os avós maternos da linhagem Kazimir pós-Haldor, enquanto prendem famílias camponesas por gerações em dívidas de inverno pagas nas galerias fundas.
+- **Descrição do Brasão:** Uma montanha negra fendida ao meio por um veio vertical de ferro incandescente rubro-alaranjado, ladeada por dois malhos quebrados sobre campo cinza-fuligem. *(Cor Primária: `#8a8f98` sobre Fundo Negro Absoluto `#000000`)*.

@@ -1,0 +1,12 @@
+# ✨ 18. Casa Crux
+
+**Os Senhores sob as Cinco Estrelas**
+
+- **Lema (Motto):** *"Sob as Cinco Estrelas, Ninguém Nos Dobra"*
+- **Casta, Vassalagem & Sede:** Casa Maior Vassala (Nível 3 na Pirâmide) · **Suserano:** Grenfall do Grifo · **Sede:** Solar do Cruzeiro (Cidadela de Vera-Cruz) *(Centro-Sul (Terras Ancestrais))*
+- **Origem, Sangue & Rota Histórica (Ascensão/Queda):** Grande Dinastia Austral Pré-Pacto (Mais antiga em domínio territorial no extremo sudoeste que a soberania do Grifo). Nascidos da fusão entre antigos navegadores guiados pela constelação da Cruz Austral e os chefes guerreiros dos planaltos de terra roxa e matas de pau-rubro na fronteira meridional. Durante o caos do Século Vermelho (145–280), enquanto Meridion se autodestruía em fome e peste, o domínio de Vera-Cruz prosperou isolado pela geografia, acolhendo exilados, descobrindo veios colossais de ouro e esmeraldas nas serras e repelindo à força as frotas piratas de Skalmark. Uniram-se a Julian Grenfall na consolidação do Sul não por conquista, mas por tratado de respeito mútuo — mantendo até hoje o porte de um império solar autossuficiente sob as Cinco Estrelas.
+- **Valores Ancestrais:** **Soberania Solar, Magnanimidade Diplomática e Ferocidade Indomável.** Uma das dinastias mais ricas, respeitadas e vastas de todo o Sul; carismáticos e generosos à mesa na paz, mas uma muralha intransponível quando seu território ou sua honra são desafiados.
+- **Território & Economia:** **Solar do Cruzeiro (Cidadela de Vera-Cruz).** Solar do Cruzeiro (Vera-Cruz), dominando o grande planalto verdejante, as serras de ouro e esmeraldas, as matas costeiras de pau-rubro e a baía profunda a sudoeste de Fortaleza do Grifo.
+- **Doutrina Militar:** **Guerra Anfíbia de Planalto e Mata, Cavalaria Ligeira e Esquadra Austral.** Combinam lanceiros de planalto, atiradores de elite aclimatados às serras e florestas tropicais e uma frota costeira guiada pela constelação da Cruz Austral que barrou os corsários de Skalmark por três séculos.
+- **A "Sombra" da Casa:** **O Gigante Autônomo.** Tão vastos e autossuficientes em comida, ouro e madeira que governam o sudoeste quase como um reino dentro do reino; até Vermer pisa com cuidado ao cobrar impostos de Vera-Cruz.
+- **Descrição do Brasão:** As cinco estrelas de prata brilhante da constelação da Cruz Austral (Crux) cravejadas no interior de uma esfera armilar de ouro batido, cercada por dois ramos de pau-rubro sobre campo verde-esmeralda escuro e bordadura azul-noturno. *(Cor Primária: `#10b981` sobre Fundo Negro Absoluto `#000000`)*.

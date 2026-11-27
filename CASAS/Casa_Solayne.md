@@ -1,0 +1,12 @@
+# 🐍 60. Casa Solayne
+
+**As Víboras do Deserto**
+
+- **Lema (Motto):** *"O Veneno é a Cura"*
+- **Casta, Vassalagem & Sede:** Casa Soberana (Nível 2 na Pirâmide) · **Suserano:** Grenfall de Vermer · **Sede:** Oásis de Âmbar *(Oeste)*
+- **Origem, Sangue & Rota Histórica (Ascensão/Queda):** Matriarcado Milenar do Oásis (Tão antigo quanto os primeiros reis do continente; atravessou 600 anos sem jamais ser conquistado). Enquanto o Norte congelava e o Sul apodrecia em guerras civis e peste, a Casa Solayne já governava o Deserto Sulino a partir do Grande Oásis de Âmbar sob uma sucessão matriarcal ininterrupta. Sua rota histórica foi a da soberania pelo isolamento geográfico e pelo domínio biológico: usando cisternas subterrâneas, captação de orvalho e alquimia de venenos e fármacos raros, transformaram o deserto em uma fortaleza onde qualquer exército invasor morre de sede em quarenta e oito horas. Na Assembleia de Vermer (Ano 291, Bloco II), a velha Matriarca Vinda Solayne (72 anos) chegou em liteira dourada e não pediu proteção a Julian Grenfall — ofereceu uma aliança de sangue de igual para igual, casando sua filha Soraia com o futuro Rei Toren Grenfall (299). Em 300 anos tiveram apenas 5 gerações devido à longevidade medicinal de suas matriarcas; selaram o monopólio da água com a Casa Khai em 504 e hoje, sob a Matriarca Oraya (70), têm novamente uma filha sentada no trono de Vermer (a Rainha Dayse Solayne, esposa de Barttloven).
+- **Valores Ancestrais:** **Soberania Feminina, Medicina e Letalidade.** Matriarcado do Deserto. Ao contrário dos Kühl (comércio), os Solayne focam no poder biológico e territorial. Entendem que o que mata também pode curar. São mestres da alquimia do deserto.
+- **Território & Economia:** **Oásis de Âmbar.** Oásis de Âmbar. Detêm o monopólio da água no deserto e das plantas medicinais/venenosas raras que só crescem nas dunas.
+- **Doutrina Militar:** **Emboscada e Desgaste.** Usam o deserto como arma. Envenenam poços antes da chegada do inimigo, usam flechas com toxinas paralisantes e conhecem os caminhos secretos das dunas.
+- **A "Sombra" da Casa:** **Traição Íntima.** A política de sucessão matriarcal e o uso de venenos tornam os jantares de família Solayne eventos perigosos. A morte natural é rara na família.
+- **Descrição do Brasão:** Uma serpente dourada (víbora), enrolada numa forma sinuosa e elegante (formato de S vertical), pronta para atacar, sobre fundo negro. Diferente da serpente defensiva dos Kühl, esta é ofensiva e orgânica. *(Cor Primária: `#b0924f` sobre Fundo Negro Absoluto `#000000`)*.
