@@ -1,4 +1,4 @@
-# ⛩️ 2. O Caminho dos Mil Espíritos
+# ⛩️ 3. O Caminho dos Mil Espíritos
 
 **A Tradição dos Portais Vermelhos & A Reverência da Natureza Viva**
 

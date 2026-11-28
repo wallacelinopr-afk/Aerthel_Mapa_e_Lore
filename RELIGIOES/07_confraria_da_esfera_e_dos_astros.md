@@ -1,4 +1,4 @@
-# 🔭 6. A Confraria da Esfera e dos Astros
+# 🔭 7. A Confraria da Esfera e dos Astros
 
 **Os Leitores do Firmamento & A Ciência das Conjunções (A Tradição Astrológica)**
 
